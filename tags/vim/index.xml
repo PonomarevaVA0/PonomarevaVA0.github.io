@@ -1,0 +1,2926 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim | </title>
+    <link>https://ponomarevava0.github.io/tags/vim/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vim</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Vim</title>
+      <link>https://ponomarevava0.github.io/tags/vim/</link>
+    </image>
+    
+    <item>
+      <title>Отчёт по выполнению внешнего курса: Все этапы</title>
+      <link>https://ponomarevava0.github.io/publications/conference-paper/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/publications/conference-paper/</guid>
+      <description>&lt;h2 id=&#34;этап-1-введение-в-linux&#34;&gt;Этап 1: Введение в Linux&lt;/h2&gt;
+&lt;h3 id=&#34;11-общая-информация-о-курсе&#34;&gt;1.1 Общая информация о курсе&lt;/h3&gt;
+&lt;p&gt;Выбираю правильное названия курса и отправляю ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 1&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/1_hu_fc86c923ed3db5c6.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/1_hu_3ef51df75d31b647.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/1_hu_35f8aedb62bb24bd.webp 560w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/1_hu_fc86c923ed3db5c6.webp&#34;
+               width=&#34;560&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю нужные пункты и отправляю решение.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 2&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/2_hu_152671fe5c448ae3.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/2_hu_b6f32de267f224c8.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/2_hu_22dd20286807faff.webp 586w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/2_hu_152671fe5c448ae3.webp&#34;
+               width=&#34;586&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;12-как-установить-linux&#34;&gt;1.2 Как установить Linux&lt;/h3&gt;
+&lt;p&gt;Отвечаю какими операционными системами я пользуюсь.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 3&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/3_hu_c0bbe380ae5428d9.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/3_hu_481d989a5abc083f.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/3_hu_407eb8f605566125.webp 578w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/3_hu_c0bbe380ae5428d9.webp&#34;
+               width=&#34;578&#34;
+               height=&#34;280&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для вопроса «Что такое виртуальная машина?» выбран наиболее полный ответ: «Специальная программа для запуска одной ОС на другой ОС».&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 4&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/4_hu_5f295c08887e7c5e.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/4_hu_aee182a12e0b6b15.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/4_hu_fec551c76d75c48e.webp 582w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/4_hu_5f295c08887e7c5e.webp&#34;
+               width=&#34;582&#34;
+               height=&#34;323&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отвечаю, что получилось запустить Linux и отправляю ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 5&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/5_hu_6bbcfa78ada65065.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/5_hu_53b26a2b9324bbe6.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/5_hu_e1f19b20facf8642.webp 590w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/5_hu_6bbcfa78ada65065.webp&#34;
+               width=&#34;590&#34;
+               height=&#34;293&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;13-осваиваем-linux&#34;&gt;1.3 Осваиваем Linux&lt;/h3&gt;
+&lt;p&gt;Создаю документ в предложенном текстовом редакторе, выбираю нужный шрифт и ввожу предложение.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 6&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/6_hu_dc753b9624c6f5d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/6_hu_f1b461298e5c3576.webp 449w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/6_hu_dc753b9624c6f5d.webp&#34;
+               width=&#34;449&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сохраняю в формате xml и отправляю ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 7&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/7_hu_16f9771de841bc34.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/7_hu_bda706fde52fa53b.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/7_hu_d7be59e4f5e5852a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/7_hu_16f9771de841bc34.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;325&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю нужное расширение deb, так как оно имеет установочные пакеты в Linux (Ubuntu).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 8&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/8_hu_afe4f2d57a17829.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/8_hu_bc700c9cffd5bfb8.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/8_hu_6b1352df454d3e83.webp 493w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/8_hu_afe4f2d57a17829.webp&#34;
+               width=&#34;493&#34;
+               height=&#34;276&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Прописываю команду sudo dnf install, чтобы скачать vcl.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 9&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/9_hu_a60d2d5e3770387d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/9_hu_f2b279d11dcda08c.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/9_hu_a4f57af3ee256c5b.webp 569w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/9_hu_a60d2d5e3770387d.webp&#34;
+               width=&#34;569&#34;
+               height=&#34;92&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Открываю скачанную программу, захожу в авторов и ввожу фамилию самого первого.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 10&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/10_hu_23706e060d9f0a4f.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/10_hu_d62f1a3a7b6abef6.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/10_hu_7d45ff3f1520bddb.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/10_hu_23706e060d9f0a4f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для вопроса о назначении Update Manager выбраны правильные пункты: «Для обновления всей системы до новой версии» и «Для обновления ссылок в Software Center» (последнее — специфика данного теста).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 11&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/11_hu_9be24135ca56db65.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/11_hu_2f0139bd6df231d6.webp 320w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/11_hu_9be24135ca56db65.webp&#34;
+               width=&#34;320&#34;
+               height=&#34;257&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;14-terminal-основы&#34;&gt;1.4 Terminal: основы&lt;/h3&gt;
+&lt;p&gt;Выбраны все синонимы для «командной строки»: «Терминал» и «Консоль». Варианты «Ассоль» и «Термин» не являются синонимами в данном контексте.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 12&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/12_hu_62c4904958eddae8.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/12_hu_284d491be73a056.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/12_hu_ee2b47a34a1ea9b7.webp 759w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/12_hu_62c4904958eddae8.webp&#34;
+               width=&#34;759&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю pwd, потому что эта команда показывает в какой директории мы сейчас находимся.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 13&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/13_hu_5340c834e82d09ce.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/13_hu_6f1423e6e91b3df1.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/13_hu_eb1fbad16dd47fa0.webp 747w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/13_hu_5340c834e82d09ce.webp&#34;
+               width=&#34;747&#34;
+               height=&#34;359&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для команды ls -A &amp;ndash;human-readable -l /some/directory отмечены эквивалентные варианты: ls -lAh /some/directory, ls -Ahl /some/directory, ls -h -A -l /some/directory. Все они используют группировку опций -A (почти все файлы), -h (человеко‑читаемые размеры) и -l (длинный формат).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 14&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/14_hu_be740422ced1485.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/14_hu_4f6b7dac9c2d2787.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/14_hu_251229d02f51c73a.webp 603w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/14_hu_be740422ced1485.webp&#34;
+               width=&#34;603&#34;
+               height=&#34;303&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Из директории /home/bi/Documents нужно вывести содержимое /home/bi/Downloads. Выбран верный относительный путь: ls ../Downloads (подъём на уровень вверх и переход в папку Downloads). Вариант с ls /home/bi/Do* не отмечен, так как вывел бы и Documents, и Downloads.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 15&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/15_hu_3351cb41e10170bd.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/15_hu_b3d406148788558b.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/15_hu_ed50c2bda9817f37.webp 589w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/15_hu_3351cb41e10170bd.webp&#34;
+               width=&#34;589&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Вопрос о команде удаления директорий. Правильный ответ — rm -r (рекурсивное удаление). mkdir создаёт, mv перемещает, rm -f удаляет файлы без подтверждения, но не директории.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 16&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/16_hu_32d36776feb0c5c8.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/16_hu_a97096444bda9465.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/16_hu_c8137b2c8bd6dc20.webp 748w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/16_hu_32d36776feb0c5c8.webp&#34;
+               width=&#34;748&#34;
+               height=&#34;375&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;15-запуск-исполняемых-файлов&#34;&gt;1.5 Запуск исполняемых файлов&lt;/h3&gt;
+&lt;p&gt;Выбран верный вариант ответа.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 17&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/17_hu_b091bc3468763de8.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/17_hu_970f88167fe69ac.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/17_hu_efbf34a5bdef9336.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/17_hu_b091bc3468763de8.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Запуск программы с символом &amp;amp; переводит её в фоновый режим. Этому эквивалентна последовательность: запуск программы, затем нажатие Ctrl+Z (остановка), затем команда bg (возобновление в фоне).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 18&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/18_hu_999b363a5a74eaf5.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/18_hu_4f0fca0a277dfec1.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/18_hu_665b5a29a3b81096.webp 592w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/18_hu_999b363a5a74eaf5.webp&#34;
+               width=&#34;592&#34;
+               height=&#34;302&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Перехожу в нужную директорию и ввожу команды, чтобы файл сделать исполняемым.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 19&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/19_hu_7aa0db243ebe216e.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/19_hu_45ebbdc6d4bf11e2.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/19_hu_a73b1f3b3ff9006.webp 515w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/19_hu_7aa0db243ebe216e.webp&#34;
+               width=&#34;515&#34;
+               height=&#34;170&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;После запуска программа вывела на экран две строки: текущую дату и время (2026-04-19 14:37:16) и контрольную сумму (Control sum: 956). Этот текст скопирован в форму ответа, задание выполнено полностью.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 20&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/20_hu_fddf3a04dbd28a51.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/20_hu_4afb12a1f9afa8d2.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/20_hu_9ed3c27b47040985.webp 583w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/20_hu_fddf3a04dbd28a51.webp&#34;
+               width=&#34;583&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;16-вводвывод&#34;&gt;1.6 Ввод/вывод&lt;/h3&gt;
+&lt;p&gt;Выбираю что поток ошибок выводится на экран.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 21&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/21_hu_f91ec8ef20cc4d04.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/21_hu_311cbf01d9ea65ae.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/21_hu_199628c63ad1b03a.webp 743w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/21_hu_f91ec8ef20cc4d04.webp&#34;
+               width=&#34;743&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбраны команды, которые создают файл file.txt и записывают в него только поток ошибок (stderr) программы program: program 2&amp;gt; file.txt (перезапись) и program 2&amp;raquo; file.txt (добавление в конец).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 22&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/22_hu_9c49e24ebb517f04.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/22_hu_75bde8356e9230f4.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/22_hu_321bdd26fc453b18.webp 603w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/22_hu_9c49e24ebb517f04.webp&#34;
+               width=&#34;603&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Вопрос о том, куда попадают сообщения об ошибках (stderr) в конвейере (pipe). Правильный ответ: «Выводятся на экран», потому что по умолчанию конвейер передаёт только stdout, а stderr остаётся на терминале.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 23&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/23_hu_35f3417336a40297.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/23_hu_c54ce6f13c565652.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/23_hu_1185227e165326fc.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/23_hu_35f3417336a40297.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;452&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;17-скачивание-файлов-из-интернета&#34;&gt;1.7 Скачивание файлов из интернета&lt;/h3&gt;
+&lt;p&gt;Выбираю правильный ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 24&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/24_hu_d2991d8c7fdad4c1.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/24_hu_ac875bc877ebb09c.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/24_hu_6aa25e7a1980c6c7.webp 755w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/24_hu_d2991d8c7fdad4c1.webp&#34;
+               width=&#34;755&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для команды wget требуется опция, подавляющая вывод любых сообщений (Resolving&amp;hellip;, Connecting to&amp;hellip;). Правильный ответ: -q или &amp;ndash;quiet (от английского quiet — тихий). Опции -v (verbose) и -nv (no-verbose) не отключают вывод полностью.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 25&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/25_hu_d26c5b479cdcc36a.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/25_hu_9c66d53f42ec7842.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/25_hu_4648fe295325cc2a.webp 732w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/25_hu_d26c5b479cdcc36a.webp&#34;
+               width=&#34;732&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В тесте выбран правильный сценарий работы wget с заданными опциями (например, рекурсивная загрузка с ограничением по типам файлов).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 26&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/26_hu_c3bb31d7f74653ff.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/26_hu_cee50d5a65405956.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/26_hu_adb35eaa6714b7ee.webp 743w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/26_hu_c3bb31d7f74653ff.webp&#34;
+               width=&#34;743&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;18-работа-с-архивами&#34;&gt;1.8 Работа с архивами&lt;/h3&gt;
+&lt;p&gt;Вопрос об отличии gzip от zip при использовании по умолчанию. Правильный ответ: gzip удаляет архив после его распаковки (если не использовать опцию -k). zip сохраняет архив после распаковки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 27&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/27_hu_c86d933ad4933d1e.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/27_hu_aad4c0a9525ffba4.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/27_hu_d2ae66057904adfb.webp 756w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/27_hu_c86d933ad4933d1e.webp&#34;
+               width=&#34;756&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбраны архиваторы, способные создать архив из директории: zip (может упаковать папку рекурсивно) и tar (создаёт tar-архив, который затем можно сжать). gzip сам по себе сжимает только один файл и не умеет упаковывать директорию без tar.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 28&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/28_hu_a60dbb4f2bfafb83.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/28_hu_45dbd98d43715a25.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/28_hu_2e6446a74800b4da.webp 738w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/28_hu_a60dbb4f2bfafb83.webp&#34;
+               width=&#34;738&#34;
+               height=&#34;423&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для распаковки архива .tar.gz используется комбинация опций tar -xzf: -x (extract), -z (через gzip), -f (файл). Другие варианты (-czf — создание, -xjf — для bz2, -wlf — несуществующая опция) не подходят.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 29&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/29_hu_96d47d36ce0d2352.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/29_hu_1bd54dbab0e79bf1.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/29_hu_ff80e47be9f58aef.webp 746w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/29_hu_96d47d36ce0d2352.webp&#34;
+               width=&#34;746&#34;
+               height=&#34;358&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;19-поиск-файлов-и-слов-в-файлах&#34;&gt;1.9 Поиск файлов и слов в файлах&lt;/h3&gt;
+&lt;p&gt;Для файла Alexey.jpeg отмечены маски команды find, которые НЕ найдут этот файл: &lt;em&gt;.jpg (расширение .jpg, а не .jpeg) и alexey.&lt;/em&gt; (имя с маленькой буквы, а в файле — с большой). Маски Alex*, &lt;em&gt;.&lt;/em&gt;, Alexey.jpeg, &lt;em&gt;?&lt;/em&gt; нашли бы файл.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 30&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/30_hu_125bb4fae9887b0d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/30_hu_dfdcc96df7ba0495.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/30_hu_cbf54a8238998847.webp 688w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/30_hu_125bb4fae9887b0d.webp&#34;
+               width=&#34;688&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда grep &amp;ldquo;world&amp;rdquo; text.txt ищет точное вхождение world (с учётом регистра, если не указано -i). Выведены строки: The &amp;ldquo;world&amp;rdquo; is not enough, world, The world is not enough. Строки с World, The World Is Not Enough и другие варианты с заглавной буквы или дефисом не выводятся.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 31&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/31_hu_306f5e32c69f4d0a.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/31_hu_ae41799762107e80.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/31_hu_ee3b20dac82bf6f3.webp 756w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/31_hu_306f5e32c69f4d0a.webp&#34;
+               width=&#34;756&#34;
+               height=&#34;466&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ввожу нужные команды в терминал, чтобы сгенерировать файл, в котором будут все строчки из этих произведений, содержащие &amp;ldquo;love&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 32&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/32_hu_83ebcce1da8b8bc0.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/32_hu_436fed0127295681.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/32_hu_183dedc8c46c770b.webp 500w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/32_hu_83ebcce1da8b8bc0.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Загружаю этот файл на платформу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 33&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/33_hu_40dde8f7abc2fd72.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/33_hu_9188ffe1880fefc7.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/33_hu_d5f158af4b329368.webp 639w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/33_hu_40dde8f7abc2fd72.webp&#34;
+               width=&#34;639&#34;
+               height=&#34;476&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;этап-2-работа-на-сервере&#34;&gt;Этап 2: Работа на сервере&lt;/h2&gt;
+&lt;h3 id=&#34;21-знакомство-с-сервером&#34;&gt;2.1 Знакомство с сервером&lt;/h3&gt;
+&lt;p&gt;Выбираю для каких задач можно использовать сервер и отправляю ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 34&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/34_hu_f4ad3cae41ea3e74.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/34_hu_2c775be432824c97.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/34_hu_e7bb7898cd0bbb4f.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/34_hu_f4ad3cae41ea3e74.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;300&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При SSH-аутентификации используется пара ключей: закрытый (id_rsa) и открытый (id_rsa.pub). Закрытый ключ должен храниться в секрете и никогда не передаваться.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 35&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/35_hu_41ccb1329b838940.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/35_hu_527a07cd0d1c6af4.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/35_hu_c3c30470cbcf14b8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/35_hu_41ccb1329b838940.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;22-обмен-файлами&#34;&gt;2.2 Обмен файлами&lt;/h3&gt;
+&lt;p&gt;scp — команда для копирования по SSH, -r — рекурсивное копирование (нужно для папок), stepic — копируемая папка, username@server:~/ — пользователь, сервер и целевая директория (домашняя). Варианты с ssh неверны (ssh — для подключения, а не копирования). Вариант без -r скопирует только файлы верхнего уровня без подпапок.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 36&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/36_hu_8822b8eab38a3fcc.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/36_hu_2fc96bb6fd219694.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/36_hu_61fa07368c3dc2cc.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/36_hu_8822b8eab38a3fcc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;294&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ошибка «не может найти и скачать пакет» часто возникает из-за устаревшего списка пакетов. Команда apt-get update обновляет этот список.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 37&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/37_hu_7134980584d04d0d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/37_hu_a755d7aac4f583a7.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/37_hu_be2c71331203b19f.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/37_hu_7134980584d04d0d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;FileZilla — FTP-клиент. Его основные функции: просматривать файлы на сервере (правая панель), загружать файлы с компьютера на сервер и скачивать с сервера на компьютер. Он не предназначен для запуска программ на сервере или их установки — для этого нужен SSH.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 38&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/38_hu_c2dedbecd7459daa.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/38_hu_4081919eca3dd739.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/38_hu_7ad3e65418014cd0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/38_hu_c2dedbecd7459daa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;23-запуск-приложений&#34;&gt;2.3 Запуск приложений&lt;/h3&gt;
+&lt;p&gt;На сервере обычно нет графического экрана. Если программа требует GUI, есть два разумных решения: найти её консольный аналог (многие программы имеют -cli версию) или скопировать данные на локальный компьютер и запустить программу там. «Настроить сервер для вывода на экран» невозможно в обычном смысле, а «ничего сделать нельзя» — неверно, так как способы есть.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 39&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/39_hu_823eb0bd4cc52ac9.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/39_hu_72560f46f584fc44.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/39_hu_dd95e684d3308f8c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/39_hu_823eb0bd4cc52ac9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;311&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;program &amp;ndash;help (или -h) выводит краткую справку. man program — полное руководство. Команда help program работает только для встроенных команд оболочки (например, help cd).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 40&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/40_hu_1dedfa1759a3546a.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/40_hu_16e34ef88faa10c9.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/40_hu_9894416c785bea84.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/40_hu_1dedfa1759a3546a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;339&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;FastQC анализирует данные секвенирования. Основной входной формат — FASTQ (fastq). Также он умеет работать с BAM/SAM файлами, а опции bam_mapped / sam_mapped указывают анализировать только выравненные чтения. seq — не формат для FastQC, fastqc — название самой программы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 41&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/41_hu_6747a1ce63aa2847.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/41_hu_79354d62877ded69.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/41_hu_b54eed8071fe4852.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/41_hu_6747a1ce63aa2847.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;363&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;ClustalW (или Clustal Omega) используется для множественного выравнивания последовательностей. Команда clustalw test.fasta -align означает: взять входной файл test.fasta и выполнить выравнивание. Синтаксис корректен для классической версии ClustalW.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 42&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/42_hu_7bd8dde3c2e345c1.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/42_hu_615847ec4d42c0c6.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/42_hu_d6df3d6089187e7a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/42_hu_7bd8dde3c2e345c1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;347&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;24-контроль-запускаемых-программ&#34;&gt;2.4 Контроль запускаемых программ&lt;/h3&gt;
+&lt;p&gt;Исходно три программы запущены в фоне. fg %1 — program1 выводится на передний план. Ctrl+C — program1 завершается. fg %2 — program2 на переднем плане. Ctrl+Z — program2 останавливается (но остаётся в списке jobs). program3 всё это время был в фоне. Команда jobs показывает остановленные и фоновые процессы — это program2 (остановлен) и program3 (фон). program1 завершён и не показывается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 43&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/43_hu_a5f906427ddf778c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/43_hu_376e6c4c4749448c.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/43_hu_90b86cb43218ef9c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/43_hu_a5f906427ddf778c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;330&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю правильный ответ и отправляю его.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 44&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/44_hu_23a1057d6ac9aac0.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/44_hu_1a8168dd51a0857e.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/44_hu_f3e6f44dde282e49.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/44_hu_23a1057d6ac9aac0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;335&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;kill -9 (сигнал SIGKILL) мгновенно завершает процесс, процесс не может его перехватить или игнорировать. Обычный kill (без опций) отправляет сигнал SIGTERM («вежливое» завершение), который процесс может обработать или проигнорировать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 45&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/45_hu_e2b120d45ffb441a.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/45_hu_7622796829cc22dd.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/45_hu_1b4b05ada548be6c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/45_hu_e2b120d45ffb441a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;285&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Процесс, остановленный Ctrl+Z, находится в состоянии «остановлен» (T). При отправке ему сигнала SIGTERM (обычный kill) он не завершается мгновенно, потому что остановлен. Он перейдёт в состояние «завершающийся» и завершится, когда будет продолжен. Но на практике в большинстве систем сигнал сохраняется, и процесс завершится при попытке его возобновить.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 46&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/46_hu_5ecfc76663c95fe0.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/46_hu_6858d60af71a01ac.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/46_hu_149d46191323964b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/46_hu_5ecfc76663c95fe0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;282&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;25-многопоточные-приложения&#34;&gt;2.5 Многопоточные приложения&lt;/h3&gt;
+&lt;p&gt;При остановке процесса (Ctrl+Z) его состояние сохраняется в памяти. При возобновлении (fg или bg) процесс продолжает работу с того же места и потребляет столько же ресурсов CPU, сколько и до остановки. Он не сбрасывается до нуля.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 47&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/47_hu_2858a00f656a00ab.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/47_hu_4679b1b44edc3e75.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/47_hu_777fe55ed52fe5b3.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/47_hu_2858a00f656a00ab.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Остановка процесса через Ctrl+Z не освобождает выделенную ему память. Все данные остаются в оперативной памяти, процесс просто не получает процессорное время. Поэтому память остаётся занятой ровно в том объёме, который был на момент остановки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 48&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/48_hu_3d7024d342987ab7.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/48_hu_bd2c9c665ff67cd9.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/48_hu_3c59ca47ca453b0a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/48_hu_3d7024d342987ab7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;327&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В Linux невозможно завершить один поток многопоточного процесса, не завершив весь процесс. Сигналы отправляются процессу в целом, а не отдельным потокам. Команд kill &amp;ndash;thread или threadkill не существует.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 49&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/49_hu_fe7c98a1ab1614c0.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/49_hu_8aa0d36d16aada23.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/49_hu_4df74cf26f17af64.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/49_hu_fe7c98a1ab1614c0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;298&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скриншот показывает вывод команды bowtie2 &amp;ndash;help. Видна справочная информация с описанием опций, включая -p/&amp;ndash;threads для задания числа потоков.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 50&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/50_hu_1b03173a396e5ede.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/50_hu_4851ffe01eaf0b33.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/50_hu_e0a6cca10b9b564e.webp 496w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/50_hu_1b03173a396e5ede.webp&#34;
+               width=&#34;496&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда bowtie2-build имеет опцию &amp;ndash;threads для параллельного построения индекса. Команда bowtie2 имеет опцию -p/&amp;ndash;threads для многопоточного выравнивания.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 51&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/51_hu_55a0288d253884fd.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/51_hu_8dcb385a1e3f20a0.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/51_hu_239c1cbb022f46c2.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/51_hu_55a0288d253884fd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Перехожу в нужную директорию и ввожу команды, чтобы выполнить задание.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 52&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/52_hu_789bd447f5541abf.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/52_hu_6007cbdeca322e6b.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/52_hu_2b4e6598536bbdbd.webp 491w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/52_hu_789bd447f5541abf.webp&#34;
+               width=&#34;491&#34;
+               height=&#34;370&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Вывод показывает результат выравнивания: 306174 рида обработано, 100% выровнялось, 99.81% выровнялись ровно один раз.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 53&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/53_hu_dc851dd871270b37.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/53_hu_cb614e17fa9d6355.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/53_hu_a8dfc02dfb781de8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/53_hu_dc851dd871270b37.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;289&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;26-менеджер-терминалов-tmux&#34;&gt;2.6 Менеджер терминалов tmux&lt;/h3&gt;
+&lt;p&gt;Команда fg работает только в той терминальной сессии, где процесс был запущен. Если переключиться на другую вкладку (или в другой терминал), там не будет информации о процессе. Команда fg во второй вкладке либо выдаст ошибку «нет процесса», либо ничего не сделает.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 54&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/54_hu_4f9e02b6a0ffbe9d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/54_hu_898836af4c207a6b.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/54_hu_b154b785a690103b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/54_hu_4f9e02b6a0ffbe9d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;283&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Если в сессии tmux осталась только одна вкладка (окно), и в ней выполнить exit (или закрыть последний процесс в ней), то эта вкладка закроется. Поскольку вкладок больше нет, сессия завершается, и tmux прекращает работу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 55&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/55_hu_bab1d989eddd3a47.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/55_hu_6674277ded6e3208.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/55_hu_499946b0b82441c6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/55_hu_bab1d989eddd3a47.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Это ключевая особенность tmux — он работает как серверный процесс независимо от терминального клиента. При обрыве SSH-соединения (закрытии терминала) tmux продолжает выполняться на сервере со всеми запущенными процессами.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 56&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/56_hu_482752b7b5f73836.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/56_hu_d6fb52c4fbbf9ddd.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/56_hu_5d097973fad4e79c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/56_hu_482752b7b5f73836.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;285&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При принудительном закрытии вкладки (Ctrl+B, X) tmux завершает все процессы, запущенные в этой вкладке, включая фоновые. Процесс не переносится в другую вкладку и не сохраняется.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 57&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/57_hu_761b8a2c506bce4e.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/57_hu_ab277faaaa80964c.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/57_hu_8de246667a784f46.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/57_hu_761b8a2c506bce4e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;280&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;На скриншоте показана часть справочной страницы man tmux.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 58&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/58_hu_c3e7744b16430a37.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/58_hu_961685666b9eebe3.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/58_hu_3b4bd198dc55f9fd.webp 490w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/58_hu_c3e7744b16430a37.webp&#34;
+               width=&#34;490&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю правильный ответ на основе изученной справки и отправляю его на платформу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 59&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/59_hu_a2d958fb0e045831.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/59_hu_f2272d2eca254a08.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/59_hu_abda7df1fb5c01d0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/59_hu_a2d958fb0e045831.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Запускаю tmux и проверяю на практике все утверждения.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 60&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/60_hu_e70201cc4108dd52.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/60_hu_995dee26a18aa3e5.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/60_hu_627048c67aee30f1.webp 502w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/60_hu_e70201cc4108dd52.webp&#34;
+               width=&#34;502&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Многократное разделение — можно комбинировать горизонтальные и вертикальные сплиты сколько угодно раз. 3 части — горизонтальный сплит создаёт две панели (верх/низ). Вертикальный сплит в одной из них делит её на две, итого три панели (одна большая, две маленькие). Закрытие части — Ctrl+B, x закрывает текущую панель.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 61&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/61_hu_29b52353470c23d2.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/61_hu_60b36e777b7b5dd1.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/61_hu_7a22e0d2aeec099f.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/61_hu_29b52353470c23d2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;323&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;27-как-установить-linux-расширенное-руководство&#34;&gt;2.7 Как установить Linux: расширенное руководство&lt;/h3&gt;
+&lt;p&gt;Просматриваю видео и читаю информацию, так как мне хватает виртуальной машины для выполнения заданий и на моём компьютере установлена другая ОС, то установка Linux не требуется.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 62&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/62_hu_d0938ba436da14f8.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/62_hu_e166d250da585349.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/62_hu_c4816710e117cbfd.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/62_hu_d0938ba436da14f8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;296&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;этап-3-продвинутые-темы&#34;&gt;Этап 3: Продвинутые темы&lt;/h2&gt;
+&lt;h3 id=&#34;31-текстовый-редактор-vim&#34;&gt;3.1 Текстовый редактор vim&lt;/h3&gt;
+&lt;p&gt;Выбираю ответ :q и затем Enter, так как именно эта команда в нормальном режиме позволит выйти из редактора если не было изменений.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 63&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/63_hu_546a8831f2b55261.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/63_hu_8a58372b0050ad45.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/63_hu_4265f6c329e3654.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/63_hu_546a8831f2b55261.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбираю именно этот пункт, потому что проверила в vim все утверждения.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 64&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/64_hu_58d0c0244646513e.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/64_hu_ab343dd7e0defb98.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/64_hu_962d7ab31939f470.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/64_hu_58d0c0244646513e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;255&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Из предложенных вариантов правильными признаны xxxxxxxxwyPp, d2w$bifour four Esc, d2wwywPp и d2wwifour four Esc, так как они преобразуют one two three four five в three four four four five.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 65&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/65_hu_f754931e51e2c29c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/65_hu_d825f87816e4d330.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/65_hu_af6f62e42d5c21d.webp 751w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/65_hu_f754931e51e2c29c.webp&#34;
+               width=&#34;751&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Введена команда :%s/Windows/Linux/. Она заменяет только первое вхождение Windows в каждой строке, что соответствует условию.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 66&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/66_hu_e32b53d9a0642e4a.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/66_hu_d96bfe9d0f3c659b.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/66_hu_415f7f3d0ff4d2c6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/66_hu_e32b53d9a0642e4a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Верны: можно использовать d и y, можно использовать команды перемещения, внизу экрана появляется надпись &amp;ndash; VISUAL &amp;ndash;. Нужно нажать v из нормального режима, а выходить — один раз Esc.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 67&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/67_hu_12663e2c41eed2d1.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/67_hu_305c012226505058.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/67_hu_d6c6122ae1631c02.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/67_hu_12663e2c41eed2d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;434&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;32-скрипты-на-bash-основы&#34;&gt;3.2 Скрипты на bash: основы&lt;/h3&gt;
+&lt;p&gt;Выбран ответ «Только из набора C». Каждая оболочка имеет свою историю, команды из родительских оболочек не видны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 68&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/68_hu_328f682349050572.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/68_hu_564c5e1c7f7033da.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/68_hu_b4a230c3693e9a98.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/68_hu_328f682349050572.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбран путь /home/bi/file1.txt, потому что touch file1.txt выполняется после cd /home/bi/, а последующая смена директории не перемещает файл.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 69&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/69_hu_ca79910bb4ecf6c7.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/69_hu_710a13db56370a58.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/69_hu_d828006ccf8b8b47.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/69_hu_ca79910bb4ecf6c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;486&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Правильные: variable123, variable, variable_123. Имя может начинаться с буквы или подчёркивания, содержать цифры не в начале.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 70&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/70_hu_5f44d7cf9dc5442c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/70_hu_ef0efcc11616084e.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/70_hu_325625d72911338a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/70_hu_5f44d7cf9dc5442c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;466&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скрипт выводит Arguments are: $1=первый $2=второй, используя $1 и $2. Знаки $ перед 1 и 2 экранированы для вывода буквально.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 71&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/71_hu_8f738128fa3f6585.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/71_hu_330a838bda6bd630.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/71_hu_d3dbe895ee467b8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/71_hu_8f738128fa3f6585.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;33-скрипты-на-bash-ветвления-и-циклы&#34;&gt;3.3 Скрипты на bash: ветвления и циклы&lt;/h3&gt;
+&lt;p&gt;Проверяю команды в терминале и отмечаю те, которые вывели True.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 72&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/72_hu_cdc8075c10e1c368.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/72_hu_a5307b8c965cf036.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/72_hu_ff6a64be1ddc553e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/72_hu_cdc8075c10e1c368.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;274&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При var=3 выведет four, при var=5 — four.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 73&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/73_hu_c7a841a08ffe642f.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/73_hu_8534ef1df9c0ef60.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/73_hu_f46ed5bb932777cd.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/73_hu_c7a841a08ffe642f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скрипт выводит количество студентов: 0 → No students, 1 → 1 student, 2–4 → N students, остальное → A lot of students.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 74&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/74_hu_c0830a0f61641f60.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/74_hu_ed4f71a54b567196.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/74_hu_49ef8d5021237c9e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/74_hu_c0830a0f61641f60.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;439&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Цикл прошёл по трём элементам a, b, c_d, но из-за условия $str &amp;gt; &amp;ldquo;c&amp;rdquo; continue никогда не сработал, поэтому каждый раз выводились start и finish.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 75&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/75_hu_35effbb41b9a8f25.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/75_hu_1b10b083a0b1ba7.webp 328w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/75_hu_35effbb41b9a8f25.webp&#34;
+               width=&#34;328&#34;
+               height=&#34;242&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Цикл с for str in a, b, c_d дал несколько итерации, на каждой выводились start и finish.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 76&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/76_hu_b1fb1bb32077d3b3.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/76_hu_5ac73a065a52e3bd.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/76_hu_d1000af219fc4475.webp 752w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/76_hu_b1fb1bb32077d3b3.webp&#34;
+               width=&#34;752&#34;
+               height=&#34;425&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скрипт определяет группу: до 10 — child, 17–25 — youth, остальные — adult. На скриншоте показан полный текст реализации.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 77&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/77_hu_bf2f98508d62a651.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/77_hu_2946eee44bef0e62.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/77_hu_800b0548149cd4ab.webp 576w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/77_hu_bf2f98508d62a651.webp&#34;
+               width=&#34;576&#34;
+               height=&#34;456&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;34-скрипты-на-bash-разное&#34;&gt;3.4 Скрипты на bash: разное&lt;/h3&gt;
+&lt;p&gt;Правильные команды: let &amp;ldquo;a=$a+$b&amp;rdquo;, let &amp;ldquo;a = a + b&amp;rdquo;, let &amp;ldquo;a+=b&amp;rdquo;. Знак $ нужен при чтении переменных, но не при присваивании.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 78&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/78_hu_918132b5ab8631b2.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/78_hu_1f06a128342e78f.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/78_hu_52246f32c243a4be.webp 756w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/78_hu_918132b5ab8631b2.webp&#34;
+               width=&#34;756&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбран верный вариант ответа.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 79&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/79_hu_eac59c7844e0568c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/79_hu_dd5785614d29868.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/79_hu_402647ad2c8f54e4.webp 747w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/79_hu_eac59c7844e0568c.webp&#34;
+               width=&#34;747&#34;
+               height=&#34;473&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выбраны два способа: сначала выполнить program, затем проверить $?; или сохранить вывод в переменную, затем проверить её.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 80&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/80_hu_6a057e97daa1f444.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/80_hu_2a2341df3b82196f.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/80_hu_a6e57062748ab8e3.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/80_hu_6a057e97daa1f444.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В функции c1 объявлена как local, поэтому глобальная c1 осталась равна 0. c2 глобальная накопила 110. Вывод: counters are 0 and 110.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 81&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/81_hu_864c7c739280b8.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/81_hu_1f5610e88ebe55fc.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/81_hu_f9626454548ceb89.webp 745w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/81_hu_864c7c739280b8.webp&#34;
+               width=&#34;745&#34;
+               height=&#34;470&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Пишу нужный код объясняю его.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 82&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/82_hu_7c09e07390653365.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/82_hu_443a7669273acdf4.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/82_hu_4d83405455d736b2.webp 742w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/82_hu_7c09e07390653365.webp&#34;
+               width=&#34;742&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Пишу нужный код объясняю его.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 83&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/83_hu_62c1569db392dfca.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/83_hu_f8edcf67d34fdfdf.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/83_hu_81b7ebe6b7be9f73.webp 723w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/83_hu_62c1569db392dfca.webp&#34;
+               width=&#34;723&#34;
+               height=&#34;493&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;35-продвинутый-поиск-и-редактирование&#34;&gt;3.5 Продвинутый поиск и редактирование&lt;/h3&gt;
+&lt;p&gt;-iname &amp;ldquo;star*&amp;rdquo; нашёл Star_Wars.avi, STARS.txt (регистронезависимо), а -name &amp;ldquo;star*&amp;rdquo; — только star_trek_0ST.mp3 и stardust.mpeg.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 84&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/84_hu_6d603a4f1f06ac13.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/84_hu_b7fe8a3f25ef6135.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/84_hu_569663a63abd406e.webp 750w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/84_hu_6d603a4f1f06ac13.webp&#34;
+               width=&#34;750&#34;
+               height=&#34;489&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Верно: «find с -name найдёт меньше файлов, чем с -path». -path проверяет весь путь и может найти больше совпадений.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 85&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/85_hu_443e2f0e0df59cec.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/85_hu_7d99e30111b7bc4c.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/85_hu_2821b28741bee58d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/85_hu_443e2f0e0df59cec.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;-mindepth 2 -maxdepth 3 находит файлы на глубине 2 и 3. file1 на глубине 2, file2 на глубине 3, file3 на глубине 4 — не найден.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 86&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/86_hu_9926b9851418e121.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/86_hu_2da2ffc515b9da16.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/86_hu_f455491a2bd82b6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/86_hu_9926b9851418e121.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;483&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Если слово есть в каждой строке, все четыре команды выведут все 10 строк. Выбран ответ: results.txt будет одинакового размера.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 87&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/87_hu_2433541454dc2d6c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/87_hu_7db870f81575eb66.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/87_hu_2fa54d5e14a58296.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/87_hu_2433541454dc2d6c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;473&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Выражение [xklXKL]?[uU]buntu$ находит строки, оканчивающиеся на buntu с возможной одной буквой из набора. Подходят Lubuntu is better than Ubuntu и The best OS is Xubuntu.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 88&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/88_hu_73b448657c2a1f37.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/88_hu_511f6273121d12a2.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/88_hu_55d30c5bb691bcbf.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/88_hu_73b448657c2a1f37.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Без -n sed печатает каждую строку автоматически, а команда p печатает ещё раз. Выбран ответ: каждая строка будет выведена два раза.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 89&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/89_hu_c846d6e4e434af3c.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/89_hu_a6e6f0ba6a096700.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/89_hu_a0104408b35eac8f.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/89_hu_c846d6e4e434af3c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;456&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;36-строим-графики-в-gnuplot&#34;&gt;3.6 Строим графики в gnuplot&lt;/h3&gt;
+&lt;p&gt;Опция -p или &amp;ndash;persist оставляет окна с графиками открытыми после выхода из gnuplot.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 90&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/90_hu_5a5c071904d84e4.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/90_hu_75a002b11beef89f.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/90_hu_fbd127397c96e6e6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/90_hu_5a5c071904d84e4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;483&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;set key autotitle columnhead использует первую строку данных как заголовок и исключает её из построения. Название — первое значение из второго столбца, точек — 9.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 91&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/91_hu_6ea2e8dbdf37e3c3.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/91_hu_d4c18b1bf63e948d.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/91_hu_d379d12474c65eff.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/91_hu_6ea2e8dbdf37e3c3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;487&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Правильная команда: set xtics (&amp;ldquo;point 1, value &amp;ldquo;.x1 x1, &amp;ldquo;point 2, value &amp;ldquo;.x2 x2, &amp;ldquo;point 3, value &amp;ldquo;.x3 x3). Конкатенация через . создаёт нужные подписи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 92&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/92_hu_e34b84ae53946548.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/92_hu_77c2a56b6fee1db5.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/92_hu_31a31a525b799a3b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/92_hu_e34b84ae53946548.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Файл изменён: отражение через -x&lt;strong&gt;2-y&lt;/strong&gt;2, обратное вращение через +350, ускорение через pause 0.1.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 93&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/93_hu_6b64dac86957b5a5.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/93_hu_8780e985670cd320.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/93_hu_142b17c7a43b1886.webp 580w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/93_hu_6b64dac86957b5a5.webp&#34;
+               width=&#34;580&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Файл move_rot (89 байт) успешно загружен на Stepik.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 94&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/94_hu_627b3e29f067edc3.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/94_hu_e2251322b56c65ed.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/94_hu_a51e600c1c2c69bb.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/94_hu_627b3e29f067edc3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;278&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;37-разное&#34;&gt;3.7 Разное&lt;/h3&gt;
+&lt;p&gt;Нужно получить rwx r-x r&amp;ndash;. Верные способы: chmod u+wx; chmod g+w и chmod 764 (7=rwx, 6=rw-, 4=r&amp;ndash;).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 95&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/95_hu_ee2748e58e309493.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/95_hu_f665ef81b92b7338.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/95_hu_81fc6171b6ad369.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/95_hu_ee2748e58e309493.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;479&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команды sudo chmod o+w dir, sudo chmod a+w dir, sudo chown user dir, sudo chown user:group dir — верны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 96&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/96_hu_73a28173b44d8842.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/96_hu_d4dca27d44ac5cbc.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/96_hu_2b275a7d8f371908.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/96_hu_73a28173b44d8842.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;441&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;wc считает строки, слова, байты и длину самой длинной строки. Выбраны все эти характеристики.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 97&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/97_hu_3c10b4d5da9a450d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/97_hu_b5562e44ccbaee7e.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/97_hu_19e30884f1385aae.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/97_hu_3c10b4d5da9a450d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;487&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда du -sh выводит размер текущей директории в человеко-читаемом формате без лишней информации.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 98&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/98_hu_d686f192de63ce4d.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/98_hu_6dce757d3986dc64.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/98_hu_60b83d9c3cd485ff.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/98_hu_d686f192de63ce4d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Самая короткая команда: mkdir dir{1..3}. Фигурные скобки создают dir1, dir2, dir3.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание 99&#34; 
+               srcset=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/99_hu_c465824fe05b95ce.webp 320w, https://ponomarevava0.github.io/publications/conference-paper/image/99_hu_ec6ce83c47e637d2.webp 480w, https://ponomarevava0.github.io/publications/conference-paper/image/99_hu_3c69f4b659da55e6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://ponomarevava0.github.io/publications/conference-paper/image/99_hu_c465824fe05b95ce.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;462&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Мы освоили базовые, продвинутые и углубленные функции Linux. Все задания успешно выполнены, курс пройден.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

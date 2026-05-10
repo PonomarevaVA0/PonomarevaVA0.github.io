@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools | </title>
-    <link>https://ponomarevava0.github.io/tags/tools/</link>
-      <atom:link href="https://ponomarevava0.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/tools/</link>
+      <atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>Tools</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Tools</title>
-      <link>https://ponomarevava0.github.io/tags/tools/</link>
+      <link>http://localhost:1313/tags/tools/</link>
     </image>
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;markdown--язык-разметки-для-всех&#34;&gt;Markdown — язык разметки для всех&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h3&gt;
 &lt;p&gt;Markdown — это лёгкий язык разметки, созданный Джоном Грубером в 2004 году. Текст остаётся читаемым даже без преобразования в HTML. Я студентка РУДН, учусь на прикладной информатике, и Markdown — мой незаменимый инструмент.&lt;/p&gt;

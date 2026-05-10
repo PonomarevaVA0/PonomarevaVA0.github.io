@@ -2,21 +2,800 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study | </title>
-    <link>https://ponomarevava0.github.io/tags/study/</link>
-      <atom:link href="https://ponomarevava0.github.io/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/study/</link>
+      <atom:link href="http://localhost:1313/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <description>Study</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Study</title>
-      <link>https://ponomarevava0.github.io/tags/study/</link>
+      <link>http://localhost:1313/tags/study/</link>
     </image>
     
     <item>
+      <title>Выполнение лабораторных работ по ОС</title>
+      <link>http://localhost:1313/projects/pandas/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pandas/</guid>
+      <description>&lt;h2 id=&#34;описание-проекта&#34;&gt;Описание проекта&lt;/h2&gt;
+&lt;p&gt;Репозиторий на GitHub для выполнения и хранения лабораторных работ по курсу «Операционные системы». Все работы задокументированы и снабжены отчётами.&lt;/p&gt;
+&lt;h2 id=&#34;цели-проекта&#34;&gt;Цели проекта&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоить операционную систему Linux на практике&lt;/li&gt;
+&lt;li&gt;Научиться работать с системой контроля версий Git&lt;/li&gt;
+&lt;li&gt;Вести документирование лабораторных работ в формате Markdown&lt;/li&gt;
+&lt;li&gt;Публиковать отчёты в виде статического сайта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выполненные-лабораторные-работы&#34;&gt;Выполненные лабораторные работы&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Номер&lt;/th&gt;
+          &lt;th&gt;Тема&lt;/th&gt;
+          &lt;th&gt;Статус&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 4&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Основы интерфейса командной строки Unix&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 5&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Анализ файловой системы Linux. Команды для работы с файлами&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 6&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Поиск файлов. Перенаправление ввода-вывода. Управление процессами&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 7&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Командная оболочка Midnight Commander&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 8&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Текстовой редактор vi&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;№ 9&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Текстовой редактор Emacs&lt;/td&gt;
+          &lt;td&gt;Выполнена&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;лабораторная-работа--4-командная-строка-unix&#34;&gt;Лабораторная работа № 4. Командная строка Unix&lt;/h2&gt;
+&lt;p&gt;Приобретение практических навыков взаимодействия с системой посредством командной строки.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-команды&#34;&gt;Изученные команды&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Команда&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;man&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Просмотр руководства по командам&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cd&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Перемещение по файловой системе&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;pwd&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Вывод абсолютного пути текущего каталога&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;ls&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Просмотр содержимого каталога&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;mkdir&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Создание каталогов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;rm&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Удаление файлов и каталогов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;rmdir&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Удаление пустых каталогов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;history&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Просмотр истории выполненных команд&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Освоила базовые команды для навигации и управления файлами в Linux. Научилась пользоваться командой &lt;code&gt;man&lt;/code&gt; для получения справки, изучила различные опции команды &lt;code&gt;ls&lt;/code&gt; для отображения скрытых файлов и подробной информации.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;лабораторная-работа--5-файловая-система-linux&#34;&gt;Лабораторная работа № 5. Файловая система Linux&lt;/h2&gt;
+&lt;p&gt;Ознакомление с файловой системой Linux, именами и содержанием каталогов. Приобретение навыков по применению команд для работы с файлами.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-команды-1&#34;&gt;Изученные команды&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Команда&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;touch&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Создание текстового файла&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cat&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Просмотр содержимого небольших файлов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;less&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Постраничный просмотр файлов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;head&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Вывод первых строк файла&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;tail&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Вывод последних строк файла&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;cp&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Копирование файлов и каталогов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;mv&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Перемещение и переименование файлов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;chmod&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Изменение прав доступа&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы-1&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Освоила команды для работы с содержимым файлов и управления правами доступа. Изучила символьную и числовую запись прав доступа, научилась анализировать файловую систему с помощью команды &lt;code&gt;mount&lt;/code&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;лабораторная-работа--6-поиск-файлов-и-управление-процессами&#34;&gt;Лабораторная работа № 6. Поиск файлов и управление процессами&lt;/h2&gt;
+&lt;p&gt;Ознакомление с инструментами поиска файлов и фильтрации текстовых данных. Приобретение навыков по управлению процессами.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-команды-и-концепции&#34;&gt;Изученные команды и концепции&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Команда / Концепция&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Перенаправление &lt;code&gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Управление потоками ввода-вывода&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Конвейер `&lt;/td&gt;
+          &lt;td&gt;`&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;find&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Поиск файлов по имени и другим критериям&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;grep&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Фильтрация текста&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;df&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Проверка использования диска&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;du&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Подсчёт занимаемого места&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;ps&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Информация о процессах&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;kill&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Завершение процессов&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы-2&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Научилась перенаправлять ввод-вывод и объединять команды в конвейеры. Освоила поиск файлов с помощью &lt;code&gt;find&lt;/code&gt; и фильтрацию текста через &lt;code&gt;grep&lt;/code&gt;. Получила навыки управления фоновыми процессами.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;лабораторная-работа--7-midnight-commander&#34;&gt;Лабораторная работа № 7. Midnight Commander&lt;/h2&gt;
+&lt;p&gt;Освоение основных возможностей командной оболочки Midnight Commander. Приобретение навыков работы по просмотру каталогов и файлов.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-возможности&#34;&gt;Изученные возможности&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Возможность&lt;/th&gt;
+          &lt;th&gt;Описание&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Двухпанельный интерфейс&lt;/td&gt;
+          &lt;td&gt;Одновременная работа с двумя каталогами&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Функциональные клавиши F1-F10&lt;/td&gt;
+          &lt;td&gt;Быстрый доступ к основным операциям&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Режимы отображения&lt;/td&gt;
+          &lt;td&gt;Информация, Дерево, Быстрый просмотр&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Встроенный редактор &lt;code&gt;mcedit&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Редактирование текстовых файлов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Меню «Файл»&lt;/td&gt;
+          &lt;td&gt;Операции с файлами и каталогами&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Меню «Команда»&lt;/td&gt;
+          &lt;td&gt;Дополнительные утилиты&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Меню «Настройки»&lt;/td&gt;
+          &lt;td&gt;Конфигурация внешнего вида и поведения&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы-3&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Освоила файловый менеджер Midnight Commander как удобную альтернативу командной строке. Научилась выполнять все основные файловые операции, использовать встроенный редактор и настраивать интерфейс.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;лабораторная-работа--8-текстовой-редактор-vi&#34;&gt;Лабораторная работа № 8. Текстовой редактор vi&lt;/h2&gt;
+&lt;p&gt;Знакомство с редактором vi, установленным по умолчанию практически во всех дистрибутивах Linux.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-команды-2&#34;&gt;Изученные команды&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Группа команд&lt;/th&gt;
+          &lt;th&gt;Примеры&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Управление курсором&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;h&lt;/code&gt;, &lt;code&gt;j&lt;/code&gt;, &lt;code&gt;k&lt;/code&gt;, &lt;code&gt;l&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Позиционирование&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0&lt;/code&gt;, &lt;code&gt;$&lt;/code&gt;, &lt;code&gt;G&lt;/code&gt;, &lt;code&gt;nG&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Вставка текста&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;i&lt;/code&gt;, &lt;code&gt;a&lt;/code&gt;, &lt;code&gt;o&lt;/code&gt;, &lt;code&gt;O&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Удаление текста&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;x&lt;/code&gt;, &lt;code&gt;dw&lt;/code&gt;, &lt;code&gt;dd&lt;/code&gt;, &lt;code&gt;ndd&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Отмена изменений&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;u&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Сохранение и выход&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;:wq&lt;/code&gt;, &lt;code&gt;:q!&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы-4&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Научилась работать в трёх режимах редактора vi: командном, вставки и последней строки. Освоила создание и редактирование shell-скриптов, управление курсором без использования стрелок.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;лабораторная-работа--9-текстовой-редактор-emacs&#34;&gt;Лабораторная работа № 9. Текстовой редактор Emacs&lt;/h2&gt;
+&lt;p&gt;Знакомство с редактором Emacs — мощным экранным редактором текста.&lt;/p&gt;
+&lt;h3 id=&#34;изученные-концепции&#34;&gt;Изученные концепции&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Концепция&lt;/th&gt;
+          &lt;th&gt;Описание&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Буфер&lt;/td&gt;
+          &lt;td&gt;Объект для хранения текста&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Фрейм&lt;/td&gt;
+          &lt;td&gt;Окно в обычном понимании&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Окно&lt;/td&gt;
+          &lt;td&gt;Область фрейма, отображающая буфер&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Основной режим&lt;/td&gt;
+          &lt;td&gt;Режим работы буфера&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Второстепенный режим&lt;/td&gt;
+          &lt;td&gt;Дополнительные настройки&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;изученные-комбинации&#34;&gt;Изученные комбинации&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Комбинация&lt;/th&gt;
+          &lt;th&gt;Действие&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-x C-f&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Открыть файл&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-x C-s&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Сохранить файл&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-x C-c&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Выйти из Emacs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-s&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Поиск вперёд&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-x 2&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Разделить окно по горизонтали&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;C-x 3&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Разделить окно по вертикали&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;M-%&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Поиск и замена&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;выводы-5&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;Освоила базовые операции в Emacs: создание и редактирование файлов, управление буферами и окнами, поиск и замену текста.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;использованные-технологии&#34;&gt;Использованные технологии&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Технология&lt;/th&gt;
+          &lt;th&gt;Применение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Linux (Fedora)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Операционная система для выполнения работ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bash&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Командная оболочка&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Git&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Система контроля версий&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Хостинг репозитория&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Язык разметки для отчётов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Hugo Blox&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Публикация отчётов на сайте&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>Итоги недели: научные профили и работа с библиографией</title>
+      <link>http://localhost:1313/blog/summary4/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/summary4/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-библиографией&#34;&gt;Работа с библиографией&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#технические-работы&#34;&gt;Технические работы&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#дополнительные-материалы&#34;&gt;Дополнительные материалы&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрировалась на основных научных и библиометрических ресурсах:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eLibrary.RU&lt;/strong&gt; — Российский индекс научного цитирования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt; — поисковая система по научным публикациям&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID&lt;/strong&gt; — международный идентификатор исследователя (0009-0000-3695-3717)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — менеджер библиографии и научная соцсеть&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt; — профессиональная сеть учёных&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academia.edu&lt;/strong&gt; — платформа для обмена научными работами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arXiv&lt;/strong&gt; — репозиторий научных препринтов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — репозиторий кода (PonomarevaVA0)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Настроила отображение ссылок на научные профили на сайте&lt;/li&gt;
+&lt;li&gt;Изучила структуру Hugo Blox и взаимосвязь между файлами конфигурации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;работа-с-библиографией&#34;&gt;Работа с библиографией&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила основные инструменты: Zotero, Mendeley, EndNote, Citavi&lt;/li&gt;
+&lt;li&gt;Разобрала форматы библиографических ссылок: ГОСТ Р 7.0.5-2008, APA, IEEE&lt;/li&gt;
+&lt;li&gt;Составила практический воркфлоу для студента&lt;/li&gt;
+&lt;li&gt;Написала пост на тему «Работа с библиографией»&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;технические-работы&#34;&gt;Технические работы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Устранила ошибку сборки сайта с загрузкой изображений&lt;/li&gt;
+&lt;li&gt;Научилась использовать локальные изображения для обложек&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;дополнительные-материалы&#34;&gt;Дополнительные материалы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила языки научного программирования&lt;/li&gt;
+&lt;li&gt;Написала пост о выборе инструментов для научных вычислений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавить на сайт персональные проекты&lt;/li&gt;
+&lt;li&gt;Заполнить раздел с образованием&lt;/li&gt;
+&lt;li&gt;Продолжить изучение Python для научных вычислений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования. Обзор, сравнение и выбор инструмента</title>
+      <link>http://localhost:1313/blog/lang_1/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/lang_1/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#критерии-оценки-языков&#34;&gt;Критерии оценки языков&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#r--король-статистики&#34;&gt;R — король статистики&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#julia--скорость-и-элегантность&#34;&gt;Julia — скорость и элегантность&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#matlab--промышленный-стандарт-в-инженерии&#34;&gt;MATLAB — промышленный стандарт в инженерии&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#сравнительная-таблица&#34;&gt;Сравнительная таблица&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#другие-важные-инструменты&#34;&gt;Другие важные инструменты&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#jupyter-notebook--jupyterlab&#34;&gt;Jupyter Notebook / JupyterLab&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#gnu-octave&#34;&gt;GNU Octave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#wolfram-mathematica&#34;&gt;Wolfram Mathematica&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#какой-язык-выбрать&#34;&gt;Какой язык выбрать?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#мой-выбор-для-учебного-проекта&#34;&gt;Мой выбор для учебного проекта&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#полезные-ссылки&#34;&gt;Полезные ссылки&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Научное программирование — это область на стыке программирования и научных исследований. Выбор правильного инструмента может значительно ускорить обработку данных, моделирование и визуализацию результатов. В этом посте я рассмотрю основные языки, используемые в научной среде.&lt;/p&gt;
+&lt;h2 id=&#34;критерии-оценки-языков&#34;&gt;Критерии оценки языков&lt;/h2&gt;
+&lt;p&gt;При выборе языка для научной работы важно учитывать:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Критерий&lt;/th&gt;
+          &lt;th&gt;Описание&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Скорость вычислений&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Насколько быстро выполняются численные алгоритмы&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Экосистема библиотек&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Наличие готовых пакетов для специфичных задач&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Простота освоения&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Порог входа для исследователя без глубокого IT-бэкграунда&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Визуализация&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Качество и удобство построения графиков&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Воспроизводимость&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Насколько легко повторить вычисления на другой машине&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Сообщество&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Размер сообщества, доступность документации и примеров&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/h2&gt;
+&lt;p&gt;Python де-факто стал стандартом в data science и научных вычислениях благодаря богатой экосистеме.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые библиотеки:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Библиотека&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NumPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с многомерными массивами, линейная алгебра&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SciPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Оптимизация, интегрирование, обработка сигналов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Pandas&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Обработка и анализ табличных данных&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Matplotlib / Seaborn&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Визуализация данных&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Scikit-learn&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;TensorFlow / PyTorch&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Глубокое обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SymPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Символьные вычисления&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; огромное сообщество, читаемый синтаксис, универсальность.
+&lt;strong&gt;Минусы:&lt;/strong&gt; медленная скорость чистого Python (компенсируется NumPy/Cython).&lt;/p&gt;
+&lt;h2 id=&#34;r--король-статистики&#34;&gt;R — король статистики&lt;/h2&gt;
+&lt;p&gt;R создавался специально для статистических вычислений и остаётся фаворитом среди статистиков и биологов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые пакеты:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Пакет&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;tidyverse&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Манипуляция данными и визуализация&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;ggplot2&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Построение графиков&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;caret&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bioconductor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Биоинформатика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Shiny&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Интерактивные веб-приложения&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; огромное количество статистических методов «из коробки», отличная визуализация.
+&lt;strong&gt;Минусы:&lt;/strong&gt; нестандартный синтаксис, низкая скорость некоторых операций.&lt;/p&gt;
+&lt;h2 id=&#34;julia--скорость-и-элегантность&#34;&gt;Julia — скорость и элегантность&lt;/h2&gt;
+&lt;p&gt;Julia создана специально для высокопроизводительных научных вычислений, сочетая скорость C++ с удобством Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые пакеты:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Пакет&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;DifferentialEquations.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Решение дифференциальных уравнений&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Flux.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;DataFrames.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с табличными данными&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Plots.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Визуализация&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; высокая производительность, множественная диспетчеризация, лаконичный синтаксис.
+&lt;strong&gt;Минусы:&lt;/strong&gt; более молодое сообщество, меньше готовых пакетов.&lt;/p&gt;
+&lt;h2 id=&#34;matlab--промышленный-стандарт-в-инженерии&#34;&gt;MATLAB — промышленный стандарт в инженерии&lt;/h2&gt;
+&lt;p&gt;MATLAB широко используется в инженерных специальностях, теории управления и обработке сигналов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; отличная документация, богатый набор инженерных тулбоксов, Simulink.
+&lt;strong&gt;Минусы:&lt;/strong&gt; проприетарный (дорогая лицензия), медленный для общих задач.&lt;/p&gt;
+&lt;h2 id=&#34;сравнительная-таблица&#34;&gt;Сравнительная таблица&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Язык&lt;/th&gt;
+          &lt;th&gt;Скорость&lt;/th&gt;
+          &lt;th&gt;Кривая обучения&lt;/th&gt;
+          &lt;th&gt;Экосистема&lt;/th&gt;
+          &lt;th&gt;Стоимость&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Огромная&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Большая (статистика)&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Высокая&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Растущая&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Большая (инженерия)&lt;/td&gt;
+          &lt;td&gt;Платный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;C/C++&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Очень высокая&lt;/td&gt;
+          &lt;td&gt;Высокая&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fortran&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Очень высокая&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Устаревшая&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;другие-важные-инструменты&#34;&gt;Другие важные инструменты&lt;/h2&gt;
+&lt;h3 id=&#34;jupyter-notebook--jupyterlab&#34;&gt;Jupyter Notebook / JupyterLab&lt;/h3&gt;
+&lt;p&gt;Интерактивная среда, поддерживающая Python, R, Julia и десятки других языков. Идеальна для исследовательской работы.&lt;/p&gt;
+&lt;h3 id=&#34;gnu-octave&#34;&gt;GNU Octave&lt;/h3&gt;
+&lt;p&gt;Бесплатный аналог MATLAB с совместимым синтаксисом. Подходит для студентов.&lt;/p&gt;
+&lt;h3 id=&#34;wolfram-mathematica&#34;&gt;Wolfram Mathematica&lt;/h3&gt;
+&lt;p&gt;Система символьных вычислений. Особенно сильна в аналитических преобразованиях.&lt;/p&gt;
+&lt;h2 id=&#34;какой-язык-выбрать&#34;&gt;Какой язык выбрать?&lt;/h2&gt;
+&lt;p&gt;Рекомендации зависят от области:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Область&lt;/th&gt;
+          &lt;th&gt;Рекомендуемый язык&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Data Science / ML&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Статистика / Биостатистика&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Вычислительная математика&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Julia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Инженерия / Теория управления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;MATLAB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Высокопроизводительные вычисления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;C++ / Fortran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Символьные вычисления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Mathematica / SymPy&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;мой-выбор-для-учебного-проекта&#34;&gt;Мой выбор для учебного проекта&lt;/h2&gt;
+&lt;p&gt;Для своего учебного проекта я выбрала &lt;strong&gt;Python&lt;/strong&gt; по нескольким причинам:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Огромное сообщество и море документации&lt;/li&gt;
+&lt;li&gt;Универсальность — от обработки данных до веб-разработки&lt;/li&gt;
+&lt;li&gt;Бесплатность и открытый исходный код&lt;/li&gt;
+&lt;li&gt;Востребованность на рынке труда&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;полезные-ссылки&#34;&gt;Полезные ссылки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Итоги недели: основы командной строки и менеджеры паролей</title>
-      <link>https://ponomarevava0.github.io/blog/summary2/</link>
+      <link>http://localhost:1313/blog/summary2/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary2/</guid>
+      <guid>http://localhost:1313/blog/summary2/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -68,9 +847,9 @@
     
     <item>
       <title>Итоги недели: редакторы и научные профили</title>
-      <link>https://ponomarevava0.github.io/blog/summary3/</link>
+      <link>http://localhost:1313/blog/summary3/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
+      <guid>http://localhost:1313/blog/summary3/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -140,9 +919,9 @@
     
     <item>
       <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
-      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
+      <link>http://localhost:1313/blog/bib_1/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
+      <guid>http://localhost:1313/blog/bib_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 
@@ -245,9 +1024,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;markdown--язык-разметки-для-всех&#34;&gt;Markdown — язык разметки для всех&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h3&gt;
 &lt;p&gt;Markdown — это лёгкий язык разметки, созданный Джоном Грубером в 2004 году. Текст остаётся читаемым даже без преобразования в HTML. Я студентка РУДН, учусь на прикладной информатике, и Markdown — мой незаменимый инструмент.&lt;/p&gt;
@@ -360,9 +1139,9 @@
     
     <item>
       <title>Итоги недели: настройка окружения и работа с Git</title>
-      <link>https://ponomarevava0.github.io/blog/summary1/</link>
+      <link>http://localhost:1313/blog/summary1/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary1/</guid>
+      <guid>http://localhost:1313/blog/summary1/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 

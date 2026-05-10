@@ -2,21 +2,332 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zotero | </title>
-    <link>https://ponomarevava0.github.io/tags/zotero/</link>
-      <atom:link href="https://ponomarevava0.github.io/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/zotero/</link>
+      <atom:link href="http://localhost:1313/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
     <description>Zotero</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Zotero</title>
-      <link>https://ponomarevava0.github.io/tags/zotero/</link>
+      <link>http://localhost:1313/tags/zotero/</link>
     </image>
     
     <item>
+      <title>Языки научного программирования. Обзор, сравнение и выбор инструмента</title>
+      <link>http://localhost:1313/blog/lang_1/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/lang_1/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#критерии-оценки-языков&#34;&gt;Критерии оценки языков&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#r--король-статистики&#34;&gt;R — король статистики&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#julia--скорость-и-элегантность&#34;&gt;Julia — скорость и элегантность&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#matlab--промышленный-стандарт-в-инженерии&#34;&gt;MATLAB — промышленный стандарт в инженерии&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#сравнительная-таблица&#34;&gt;Сравнительная таблица&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#другие-важные-инструменты&#34;&gt;Другие важные инструменты&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#jupyter-notebook--jupyterlab&#34;&gt;Jupyter Notebook / JupyterLab&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#gnu-octave&#34;&gt;GNU Octave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#wolfram-mathematica&#34;&gt;Wolfram Mathematica&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#какой-язык-выбрать&#34;&gt;Какой язык выбрать?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#мой-выбор-для-учебного-проекта&#34;&gt;Мой выбор для учебного проекта&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#полезные-ссылки&#34;&gt;Полезные ссылки&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Научное программирование — это область на стыке программирования и научных исследований. Выбор правильного инструмента может значительно ускорить обработку данных, моделирование и визуализацию результатов. В этом посте я рассмотрю основные языки, используемые в научной среде.&lt;/p&gt;
+&lt;h2 id=&#34;критерии-оценки-языков&#34;&gt;Критерии оценки языков&lt;/h2&gt;
+&lt;p&gt;При выборе языка для научной работы важно учитывать:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Критерий&lt;/th&gt;
+          &lt;th&gt;Описание&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Скорость вычислений&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Насколько быстро выполняются численные алгоритмы&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Экосистема библиотек&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Наличие готовых пакетов для специфичных задач&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Простота освоения&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Порог входа для исследователя без глубокого IT-бэкграунда&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Визуализация&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Качество и удобство построения графиков&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Воспроизводимость&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Насколько легко повторить вычисления на другой машине&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Сообщество&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Размер сообщества, доступность документации и примеров&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/h2&gt;
+&lt;p&gt;Python де-факто стал стандартом в data science и научных вычислениях благодаря богатой экосистеме.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые библиотеки:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Библиотека&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NumPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с многомерными массивами, линейная алгебра&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SciPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Оптимизация, интегрирование, обработка сигналов&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Pandas&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Обработка и анализ табличных данных&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Matplotlib / Seaborn&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Визуализация данных&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Scikit-learn&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;TensorFlow / PyTorch&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Глубокое обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SymPy&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Символьные вычисления&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; огромное сообщество, читаемый синтаксис, универсальность.
+&lt;strong&gt;Минусы:&lt;/strong&gt; медленная скорость чистого Python (компенсируется NumPy/Cython).&lt;/p&gt;
+&lt;h2 id=&#34;r--король-статистики&#34;&gt;R — король статистики&lt;/h2&gt;
+&lt;p&gt;R создавался специально для статистических вычислений и остаётся фаворитом среди статистиков и биологов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые пакеты:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Пакет&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;tidyverse&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Манипуляция данными и визуализация&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;ggplot2&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Построение графиков&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;caret&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bioconductor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Биоинформатика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Shiny&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Интерактивные веб-приложения&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; огромное количество статистических методов «из коробки», отличная визуализация.
+&lt;strong&gt;Минусы:&lt;/strong&gt; нестандартный синтаксис, низкая скорость некоторых операций.&lt;/p&gt;
+&lt;h2 id=&#34;julia--скорость-и-элегантность&#34;&gt;Julia — скорость и элегантность&lt;/h2&gt;
+&lt;p&gt;Julia создана специально для высокопроизводительных научных вычислений, сочетая скорость C++ с удобством Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые пакеты:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Пакет&lt;/th&gt;
+          &lt;th&gt;Назначение&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;DifferentialEquations.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Решение дифференциальных уравнений&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Flux.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;DataFrames.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Работа с табличными данными&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Plots.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Визуализация&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; высокая производительность, множественная диспетчеризация, лаконичный синтаксис.
+&lt;strong&gt;Минусы:&lt;/strong&gt; более молодое сообщество, меньше готовых пакетов.&lt;/p&gt;
+&lt;h2 id=&#34;matlab--промышленный-стандарт-в-инженерии&#34;&gt;MATLAB — промышленный стандарт в инженерии&lt;/h2&gt;
+&lt;p&gt;MATLAB широко используется в инженерных специальностях, теории управления и обработке сигналов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt; отличная документация, богатый набор инженерных тулбоксов, Simulink.
+&lt;strong&gt;Минусы:&lt;/strong&gt; проприетарный (дорогая лицензия), медленный для общих задач.&lt;/p&gt;
+&lt;h2 id=&#34;сравнительная-таблица&#34;&gt;Сравнительная таблица&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Язык&lt;/th&gt;
+          &lt;th&gt;Скорость&lt;/th&gt;
+          &lt;th&gt;Кривая обучения&lt;/th&gt;
+          &lt;th&gt;Экосистема&lt;/th&gt;
+          &lt;th&gt;Стоимость&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Огромная&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Большая (статистика)&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Высокая&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Растущая&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Низкая&lt;/td&gt;
+          &lt;td&gt;Большая (инженерия)&lt;/td&gt;
+          &lt;td&gt;Платный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;C/C++&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Очень высокая&lt;/td&gt;
+          &lt;td&gt;Высокая&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fortran&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Очень высокая&lt;/td&gt;
+          &lt;td&gt;Средняя&lt;/td&gt;
+          &lt;td&gt;Устаревшая&lt;/td&gt;
+          &lt;td&gt;Бесплатный&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;другие-важные-инструменты&#34;&gt;Другие важные инструменты&lt;/h2&gt;
+&lt;h3 id=&#34;jupyter-notebook--jupyterlab&#34;&gt;Jupyter Notebook / JupyterLab&lt;/h3&gt;
+&lt;p&gt;Интерактивная среда, поддерживающая Python, R, Julia и десятки других языков. Идеальна для исследовательской работы.&lt;/p&gt;
+&lt;h3 id=&#34;gnu-octave&#34;&gt;GNU Octave&lt;/h3&gt;
+&lt;p&gt;Бесплатный аналог MATLAB с совместимым синтаксисом. Подходит для студентов.&lt;/p&gt;
+&lt;h3 id=&#34;wolfram-mathematica&#34;&gt;Wolfram Mathematica&lt;/h3&gt;
+&lt;p&gt;Система символьных вычислений. Особенно сильна в аналитических преобразованиях.&lt;/p&gt;
+&lt;h2 id=&#34;какой-язык-выбрать&#34;&gt;Какой язык выбрать?&lt;/h2&gt;
+&lt;p&gt;Рекомендации зависят от области:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Область&lt;/th&gt;
+          &lt;th&gt;Рекомендуемый язык&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Data Science / ML&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Статистика / Биостатистика&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Вычислительная математика&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Julia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Инженерия / Теория управления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;MATLAB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Высокопроизводительные вычисления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;C++ / Fortran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Символьные вычисления&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Mathematica / SymPy&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;мой-выбор-для-учебного-проекта&#34;&gt;Мой выбор для учебного проекта&lt;/h2&gt;
+&lt;p&gt;Для своего учебного проекта я выбрала &lt;strong&gt;Python&lt;/strong&gt; по нескольким причинам:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Огромное сообщество и море документации&lt;/li&gt;
+&lt;li&gt;Универсальность — от обработки данных до веб-разработки&lt;/li&gt;
+&lt;li&gt;Бесплатность и открытый исходный код&lt;/li&gt;
+&lt;li&gt;Востребованность на рынке труда&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;полезные-ссылки&#34;&gt;Полезные ссылки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
-      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
+      <link>http://localhost:1313/blog/bib_1/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
+      <guid>http://localhost:1313/blog/bib_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 

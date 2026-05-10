@@ -2,21 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mc | </title>
-    <link>https://ponomarevava0.github.io/tags/mc/</link>
-      <atom:link href="https://ponomarevava0.github.io/tags/mc/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/mc/</link>
+      <atom:link href="http://localhost:1313/tags/mc/index.xml" rel="self" type="application/rss+xml" />
     <description>Mc</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Mc</title>
-      <link>https://ponomarevava0.github.io/tags/mc/</link>
+      <link>http://localhost:1313/tags/mc/</link>
     </image>
     
     <item>
+      <title>Итоги недели: научные профили и работа с библиографией</title>
+      <link>http://localhost:1313/blog/summary4/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/summary4/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-библиографией&#34;&gt;Работа с библиографией&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#технические-работы&#34;&gt;Технические работы&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#дополнительные-материалы&#34;&gt;Дополнительные материалы&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрировалась на основных научных и библиометрических ресурсах:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eLibrary.RU&lt;/strong&gt; — Российский индекс научного цитирования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt; — поисковая система по научным публикациям&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID&lt;/strong&gt; — международный идентификатор исследователя (0009-0000-3695-3717)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — менеджер библиографии и научная соцсеть&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt; — профессиональная сеть учёных&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academia.edu&lt;/strong&gt; — платформа для обмена научными работами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arXiv&lt;/strong&gt; — репозиторий научных препринтов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — репозиторий кода (PonomarevaVA0)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Настроила отображение ссылок на научные профили на сайте&lt;/li&gt;
+&lt;li&gt;Изучила структуру Hugo Blox и взаимосвязь между файлами конфигурации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;работа-с-библиографией&#34;&gt;Работа с библиографией&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила основные инструменты: Zotero, Mendeley, EndNote, Citavi&lt;/li&gt;
+&lt;li&gt;Разобрала форматы библиографических ссылок: ГОСТ Р 7.0.5-2008, APA, IEEE&lt;/li&gt;
+&lt;li&gt;Составила практический воркфлоу для студента&lt;/li&gt;
+&lt;li&gt;Написала пост на тему «Работа с библиографией»&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;технические-работы&#34;&gt;Технические работы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Устранила ошибку сборки сайта с загрузкой изображений&lt;/li&gt;
+&lt;li&gt;Научилась использовать локальные изображения для обложек&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;дополнительные-материалы&#34;&gt;Дополнительные материалы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила языки научного программирования&lt;/li&gt;
+&lt;li&gt;Написала пост о выборе инструментов для научных вычислений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавить на сайт персональные проекты&lt;/li&gt;
+&lt;li&gt;Заполнить раздел с образованием&lt;/li&gt;
+&lt;li&gt;Продолжить изучение Python для научных вычислений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Итоги недели: редакторы и научные профили</title>
-      <link>https://ponomarevava0.github.io/blog/summary3/</link>
+      <link>http://localhost:1313/blog/summary3/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
+      <guid>http://localhost:1313/blog/summary3/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 

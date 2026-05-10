@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | </title>
-    <link>https://ponomarevava0.github.io/tags/markdown/</link>
-      <atom:link href="https://ponomarevava0.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/markdown/</link>
+      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Markdown</title>
-      <link>https://ponomarevava0.github.io/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
     </image>
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;markdown--язык-разметки-для-всех&#34;&gt;Markdown — язык разметки для всех&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h3&gt;
 &lt;p&gt;Markdown — это лёгкий язык разметки, созданный Джоном Грубером в 2004 году. Текст остаётся читаемым даже без преобразования в HTML. Я студентка РУДН, учусь на прикладной информатике, и Markdown — мой незаменимый инструмент.&lt;/p&gt;
@@ -128,34 +128,26 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>https://ponomarevava0.github.io/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>PyTorch</title>
-      <link>https://ponomarevava0.github.io/projects/pytorch/</link>
+      <link>http://localhost:1313/projects/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/projects/pytorch/</guid>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://ponomarevava0.github.io/projects/scikit/</link>
+      <link>http://localhost:1313/projects/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/projects/scikit/</guid>
+      <guid>http://localhost:1313/projects/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Create Beautiful Presentations with Markdown</title>
-      <link>https://ponomarevava0.github.io/events/example/</link>
+      <link>http://localhost:1313/events/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ponomarevava0.github.io/events/example/</guid>
+      <guid>http://localhost:1313/events/example/</guid>
       <description>&lt;h2 id=&#34;-why-markdown-slides&#34;&gt;🎯 Why Markdown Slides?&lt;/h2&gt;
 
 
@@ -640,7 +632,7 @@ Navigate down for sub-topics!&lt;/p&gt;
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-7519dfcc27cf03dd985a63a0b9a6155b&#34;
-    href=&#34;https://ponomarevava0.github.io/slides/example/&#34;
+    href=&#34;http://localhost:1313/slides/example/&#34;
     target=&#34;_blank&#34;
     rel=&#34;noopener&#34;
     

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vi | </title>
+    <link>https://ponomarevava0.github.io/tags/vi/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/vi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vi</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Vi</title>
+      <link>https://ponomarevava0.github.io/tags/vi/</link>
+    </image>
+    
+    <item>
+      <title>Итоги недели: редакторы и научные профили</title>
+      <link>https://ponomarevava0.github.io/blog/summary3/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-командной-оболочкой-midnight-commander&#34;&gt;Работа с командной оболочкой Midnight Commander&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#текстовой-редактор-vi&#34;&gt;Текстовой редактор vi&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#текстовой-редактор-emacs&#34;&gt;Текстовой редактор Emacs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;работа-с-командной-оболочкой-midnight-commander&#34;&gt;Работа с командной оболочкой Midnight Commander&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоила интерфейс и основные возможности файлового менеджера &lt;code&gt;mc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изучила режимы отображения панелей: «Информация», «Дерево», «Быстрый просмотр»&lt;/li&gt;
+&lt;li&gt;Выполнила основные файловые операции через функциональные клавиши: копирование, перемещение, переименование, удаление&lt;/li&gt;
+&lt;li&gt;Научилась сравнивать содержимое каталогов (&lt;code&gt;Ctrl-x d&lt;/code&gt;) и менять панели местами (&lt;code&gt;Ctrl-u&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила меню «Файл», «Команда» и «Настройки» для гибкой конфигурации оболочки&lt;/li&gt;
+&lt;li&gt;Освоила встроенный редактор &lt;code&gt;mcedit&lt;/code&gt;: создание и редактирование текстовых файлов, выделение и перенос фрагментов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;текстовой-редактор-vi&#34;&gt;Текстовой редактор vi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Познакомилась с тремя режимами работы: командный, вставки и последней строки&lt;/li&gt;
+&lt;li&gt;Освоила команды позиционирования курсора, перемещения по файлу и словам&lt;/li&gt;
+&lt;li&gt;Выполнила упражнения по редактированию скрипта &lt;code&gt;hello.sh&lt;/code&gt;: вставка, замена, удаление текста, отмена изменений&lt;/li&gt;
+&lt;li&gt;Научилась сохранять файлы (&lt;code&gt;:wq&lt;/code&gt;) и выходить без сохранения (&lt;code&gt;:q!&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила опции редактора: нумерация строк (&lt;code&gt;set nu&lt;/code&gt;), отображение невидимых символов (&lt;code&gt;set list&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;текстовой-редактор-emacs&#34;&gt;Текстовой редактор Emacs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоила основные термины: буфер, фрейм, окно, точка вставки&lt;/li&gt;
+&lt;li&gt;Изучила базовые комбинации клавиш (&lt;code&gt;C-x C-f&lt;/code&gt;, &lt;code&gt;C-x C-s&lt;/code&gt;, &lt;code&gt;C-x C-c&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Выполнила упражнения по разделению окон и управлению буферами&lt;/li&gt;
+&lt;li&gt;Научилась пользоваться режимами поиска и замены текста&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрировалась на основных научных и библиометрических ресурсах:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eLibrary.RU&lt;/strong&gt; — Российский индекс научного цитирования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt; — поисковая система по научным публикациям&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID&lt;/strong&gt; — международный идентификатор исследователя&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — менеджер библиографии и научная соцсеть&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt; — профессиональная сеть учёных&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academia.edu&lt;/strong&gt; — платформа для обмена научными работами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arXiv&lt;/strong&gt; — репозиторий научных препринтов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — репозиторий кода и проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Разместила ссылки на эти профили на сайте&lt;/li&gt;
+&lt;li&gt;Добавила пост по выбору на тему «Работа с библиографией»&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zotero | </title>
+    <link>https://ponomarevava0.github.io/tags/zotero/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zotero</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Zotero</title>
+      <link>https://ponomarevava0.github.io/tags/zotero/</link>
+    </image>
+    
+    <item>
+      <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
+      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#зачем-вообще-нужна-работа-с-библиографией&#34;&gt;Зачем вообще нужна работа с библиографией?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#основные-инструменты-для-управления-библиографией&#34;&gt;Основные инструменты для управления библиографией&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#zotero&#34;&gt;Zotero&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#mendeley&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#другие-варианты&#34;&gt;Другие варианты&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#форматы-библиографических-ссылок&#34;&gt;Форматы библиографических ссылок&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#гост-р-705-2008&#34;&gt;ГОСТ Р 7.0.5-2008&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Работа с библиографией — неотъемлемая часть учебного процесса и научной деятельности. Правильное оформление ссылок не только демонстрирует академическую добросовестность, но и помогает читателю быстро найти использованные источники. В этой статье я рассмотрю основные инструменты для управления библиографией, форматы citations и практические приемы, позволяющие ускорить подготовку отчетов и статей.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-вообще-нужна-работа-с-библиографией&#34;&gt;Зачем вообще нужна работа с библиографией?&lt;/h2&gt;
+&lt;p&gt;Многие студенты воспринимают оформление ссылок как формальность, однако грамотное цитирование выполняет сразу несколько важных функций:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Подтверждение&lt;/strong&gt; знакомства с литературой по теме&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Защита&lt;/strong&gt; от обвинений в плагиате&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обеспечение&lt;/strong&gt; воспроизводимости исследования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Упрощение&lt;/strong&gt; навигации для читателя&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Более того, такие библиометрические базы, как РИНЦ (eLibrary) и Scopus, отслеживают цитирования — это напрямую влияет на наукометрические показатели автора.&lt;/p&gt;
+&lt;h2 id=&#34;основные-инструменты-для-управления-библиографией&#34;&gt;Основные инструменты для управления библиографией&lt;/h2&gt;
+&lt;h3 id=&#34;zotero&#34;&gt;Zotero&lt;/h3&gt;
+&lt;p&gt;Zotero — бесплатный менеджер библиографии с открытым исходным кодом. Поддерживает автоматический сбор метаданных с веб-страниц, интеграцию с браузерами и облачную синхронизацию.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Плюсы&lt;/th&gt;
+          &lt;th&gt;Минусы&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Бесплатный (до 300 МБ в облаке)&lt;/td&gt;
+          &lt;td&gt;Ограничение бесплатного хранилища&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Плагины для браузеров&lt;/td&gt;
+          &lt;td&gt;Менее социально-ориентирован&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Поддержка LaTeX (Better BibTeX)&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;mendeley&#34;&gt;Mendeley&lt;/h3&gt;
+&lt;p&gt;Mendeley — продукт Elsevier, сочетает функции менеджера библиографии и научной социальной сети. Современные версии включают AI-функции для поиска закономерностей между ссылками.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Плюсы&lt;/th&gt;
+          &lt;th&gt;Минусы&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Бесплатный (до 2 ГБ)&lt;/td&gt;
+          &lt;td&gt;Принадлежит Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Встроенный просмотрщик PDF&lt;/td&gt;
+          &lt;td&gt;Закрытый исходный код&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI-инструменты для анализа&lt;/td&gt;
+          &lt;td&gt;Сложный экспорт в BibTeX&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;другие-варианты&#34;&gt;Другие варианты&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EndNote&lt;/strong&gt; — мощный коммерческий инструмент, популярный в западных университетах&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Citavi&lt;/strong&gt; — немецкий менеджер знаний с функциями планирования задач&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BibTeX&lt;/strong&gt; — формат и инструмент для пользователей LaTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;форматы-библиографических-ссылок&#34;&gt;Форматы библиографических ссылок&lt;/h2&gt;
+&lt;p&gt;Существует несколько общепринятых стилей оформления:&lt;/p&gt;
+&lt;h3 id=&#34;гост-р-705-2008&#34;&gt;ГОСТ Р 7.0.5-2008&lt;/h3&gt;
+&lt;p&gt;Российский стандарт, обязательный для большинства дипломов и диссертаций в РФ.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

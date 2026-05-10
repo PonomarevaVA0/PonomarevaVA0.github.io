@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pass | </title>
+    <link>https://ponomarevava0.github.io/tags/pass/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/pass/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pass</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Pass</title>
+      <link>https://ponomarevava0.github.io/tags/pass/</link>
+    </image>
+    
+    <item>
+      <title>Итоги недели: основы командной строки и менеджеры паролей</title>
+      <link>https://ponomarevava0.github.io/blog/summary2/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/summary2/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-командной-строкой-linux&#34;&gt;Работа с командной строкой Linux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#настройка-менеджера-паролей-pass&#34;&gt;Настройка менеджера паролей pass&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#управление-конфигурациями-с-chezmoi&#34;&gt;Управление конфигурациями с chezmoi&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;работа-с-командной-строкой-linux&#34;&gt;Работа с командной строкой Linux&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила базовые команды для навигации и управления файлами: &lt;code&gt;cd&lt;/code&gt;, &lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;mkdir&lt;/code&gt;, &lt;code&gt;rm&lt;/code&gt;, &lt;code&gt;cp&lt;/code&gt;, &lt;code&gt;mv&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Освоила работу с правами доступа: изменение прав через &lt;code&gt;chmod&lt;/code&gt; в символьном и числовом представлении&lt;/li&gt;
+&lt;li&gt;Научилась перенаправлять ввод-вывод (&lt;code&gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;gt;&amp;gt;&lt;/code&gt;) и использовать конвейеры (&lt;code&gt;|&lt;/code&gt;) для фильтрации данных&lt;/li&gt;
+&lt;li&gt;Ознакомилась с управлением процессами: запуск программ в фоне (&lt;code&gt;&amp;amp;&lt;/code&gt;), просмотр через &lt;code&gt;ps&lt;/code&gt; и &lt;code&gt;jobs&lt;/code&gt;, завершение через &lt;code&gt;kill&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изучила команды для анализа файловой системы: &lt;code&gt;df&lt;/code&gt;, &lt;code&gt;du&lt;/code&gt;, &lt;code&gt;mount&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Освоила поиск файлов с помощью &lt;code&gt;find&lt;/code&gt; и фильтрацию текста через &lt;code&gt;grep&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;настройка-менеджера-паролей-pass&#34;&gt;Настройка менеджера паролей pass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Установила утилиты &lt;code&gt;pass&lt;/code&gt; и &lt;code&gt;gopass&lt;/code&gt; на Fedora&lt;/li&gt;
+&lt;li&gt;Сгенерировала GPG-ключ и инициализировала хранилище паролей&lt;/li&gt;
+&lt;li&gt;Настроила синхронизацию базы паролей с удаленным Git-репозиторием&lt;/li&gt;
+&lt;li&gt;Установила и настроила плагин &lt;code&gt;browserpass&lt;/code&gt; для интеграции с браузером&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;управление-конфигурациями-с-chezmoi&#34;&gt;Управление конфигурациями с chezmoi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Установила утилиту &lt;code&gt;chezmoi&lt;/code&gt; и создала личный репозиторий &lt;code&gt;dotfiles&lt;/code&gt; на основе шаблона&lt;/li&gt;
+&lt;li&gt;Настроила автоматическую фиксацию и отправку изменений (&lt;code&gt;autoCommit&lt;/code&gt;, &lt;code&gt;autoPush&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила синтаксис шаблонов Go для изменения конфигураций в зависимости от системы&lt;/li&gt;
+&lt;li&gt;Освоила ежедневные операции с конфигурацией: &lt;code&gt;chezmoi update&lt;/code&gt;, &lt;code&gt;chezmoi diff&lt;/code&gt;, &lt;code&gt;chezmoi edit&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Протестировала применение конфигурации на «чистую» систему одной командой&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

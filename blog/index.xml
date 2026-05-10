@@ -5,12 +5,243 @@
     <link>https://ponomarevava0.github.io/blog/</link>
       <atom:link href="https://ponomarevava0.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Blog</title>
       <link>https://ponomarevava0.github.io/blog/</link>
     </image>
+    
+    <item>
+      <title>Итоги недели: основы командной строки и менеджеры паролей</title>
+      <link>https://ponomarevava0.github.io/blog/summary2/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/summary2/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-командной-строкой-linux&#34;&gt;Работа с командной строкой Linux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#настройка-менеджера-паролей-pass&#34;&gt;Настройка менеджера паролей pass&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#управление-конфигурациями-с-chezmoi&#34;&gt;Управление конфигурациями с chezmoi&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;работа-с-командной-строкой-linux&#34;&gt;Работа с командной строкой Linux&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучила базовые команды для навигации и управления файлами: &lt;code&gt;cd&lt;/code&gt;, &lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;mkdir&lt;/code&gt;, &lt;code&gt;rm&lt;/code&gt;, &lt;code&gt;cp&lt;/code&gt;, &lt;code&gt;mv&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Освоила работу с правами доступа: изменение прав через &lt;code&gt;chmod&lt;/code&gt; в символьном и числовом представлении&lt;/li&gt;
+&lt;li&gt;Научилась перенаправлять ввод-вывод (&lt;code&gt;&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;gt;&amp;gt;&lt;/code&gt;) и использовать конвейеры (&lt;code&gt;|&lt;/code&gt;) для фильтрации данных&lt;/li&gt;
+&lt;li&gt;Ознакомилась с управлением процессами: запуск программ в фоне (&lt;code&gt;&amp;amp;&lt;/code&gt;), просмотр через &lt;code&gt;ps&lt;/code&gt; и &lt;code&gt;jobs&lt;/code&gt;, завершение через &lt;code&gt;kill&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изучила команды для анализа файловой системы: &lt;code&gt;df&lt;/code&gt;, &lt;code&gt;du&lt;/code&gt;, &lt;code&gt;mount&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Освоила поиск файлов с помощью &lt;code&gt;find&lt;/code&gt; и фильтрацию текста через &lt;code&gt;grep&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;настройка-менеджера-паролей-pass&#34;&gt;Настройка менеджера паролей pass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Установила утилиты &lt;code&gt;pass&lt;/code&gt; и &lt;code&gt;gopass&lt;/code&gt; на Fedora&lt;/li&gt;
+&lt;li&gt;Сгенерировала GPG-ключ и инициализировала хранилище паролей&lt;/li&gt;
+&lt;li&gt;Настроила синхронизацию базы паролей с удаленным Git-репозиторием&lt;/li&gt;
+&lt;li&gt;Установила и настроила плагин &lt;code&gt;browserpass&lt;/code&gt; для интеграции с браузером&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;управление-конфигурациями-с-chezmoi&#34;&gt;Управление конфигурациями с chezmoi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Установила утилиту &lt;code&gt;chezmoi&lt;/code&gt; и создала личный репозиторий &lt;code&gt;dotfiles&lt;/code&gt; на основе шаблона&lt;/li&gt;
+&lt;li&gt;Настроила автоматическую фиксацию и отправку изменений (&lt;code&gt;autoCommit&lt;/code&gt;, &lt;code&gt;autoPush&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила синтаксис шаблонов Go для изменения конфигураций в зависимости от системы&lt;/li&gt;
+&lt;li&gt;Освоила ежедневные операции с конфигурацией: &lt;code&gt;chezmoi update&lt;/code&gt;, &lt;code&gt;chezmoi diff&lt;/code&gt;, &lt;code&gt;chezmoi edit&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Протестировала применение конфигурации на «чистую» систему одной командой&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Итоги недели: редакторы и научные профили</title>
+      <link>https://ponomarevava0.github.io/blog/summary3/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
+      <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#выполненные-задачи&#34;&gt;Выполненные задачи&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#работа-с-командной-оболочкой-midnight-commander&#34;&gt;Работа с командной оболочкой Midnight Commander&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#текстовой-редактор-vi&#34;&gt;Текстовой редактор vi&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#текстовой-редактор-emacs&#34;&gt;Текстовой редактор Emacs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;работа-с-командной-оболочкой-midnight-commander&#34;&gt;Работа с командной оболочкой Midnight Commander&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоила интерфейс и основные возможности файлового менеджера &lt;code&gt;mc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изучила режимы отображения панелей: «Информация», «Дерево», «Быстрый просмотр»&lt;/li&gt;
+&lt;li&gt;Выполнила основные файловые операции через функциональные клавиши: копирование, перемещение, переименование, удаление&lt;/li&gt;
+&lt;li&gt;Научилась сравнивать содержимое каталогов (&lt;code&gt;Ctrl-x d&lt;/code&gt;) и менять панели местами (&lt;code&gt;Ctrl-u&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила меню «Файл», «Команда» и «Настройки» для гибкой конфигурации оболочки&lt;/li&gt;
+&lt;li&gt;Освоила встроенный редактор &lt;code&gt;mcedit&lt;/code&gt;: создание и редактирование текстовых файлов, выделение и перенос фрагментов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;текстовой-редактор-vi&#34;&gt;Текстовой редактор vi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Познакомилась с тремя режимами работы: командный, вставки и последней строки&lt;/li&gt;
+&lt;li&gt;Освоила команды позиционирования курсора, перемещения по файлу и словам&lt;/li&gt;
+&lt;li&gt;Выполнила упражнения по редактированию скрипта &lt;code&gt;hello.sh&lt;/code&gt;: вставка, замена, удаление текста, отмена изменений&lt;/li&gt;
+&lt;li&gt;Научилась сохранять файлы (&lt;code&gt;:wq&lt;/code&gt;) и выходить без сохранения (&lt;code&gt;:q!&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Изучила опции редактора: нумерация строк (&lt;code&gt;set nu&lt;/code&gt;), отображение невидимых символов (&lt;code&gt;set list&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;текстовой-редактор-emacs&#34;&gt;Текстовой редактор Emacs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоила основные термины: буфер, фрейм, окно, точка вставки&lt;/li&gt;
+&lt;li&gt;Изучила базовые комбинации клавиш (&lt;code&gt;C-x C-f&lt;/code&gt;, &lt;code&gt;C-x C-s&lt;/code&gt;, &lt;code&gt;C-x C-c&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Выполнила упражнения по разделению окон и управлению буферами&lt;/li&gt;
+&lt;li&gt;Научилась пользоваться режимами поиска и замены текста&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;развитие-сайта-и-научные-профили&#34;&gt;Развитие сайта и научные профили&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрировалась на основных научных и библиометрических ресурсах:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eLibrary.RU&lt;/strong&gt; — Российский индекс научного цитирования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt; — поисковая система по научным публикациям&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ORCID&lt;/strong&gt; — международный идентификатор исследователя&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; — менеджер библиографии и научная соцсеть&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt; — профессиональная сеть учёных&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academia.edu&lt;/strong&gt; — платформа для обмена научными работами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arXiv&lt;/strong&gt; — репозиторий научных препринтов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — репозиторий кода и проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Разместила ссылки на эти профили на сайте&lt;/li&gt;
+&lt;li&gt;Добавила пост по выбору на тему «Работа с библиографией»&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
+      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#зачем-вообще-нужна-работа-с-библиографией&#34;&gt;Зачем вообще нужна работа с библиографией?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#основные-инструменты-для-управления-библиографией&#34;&gt;Основные инструменты для управления библиографией&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#zotero&#34;&gt;Zotero&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#mendeley&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#другие-варианты&#34;&gt;Другие варианты&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#форматы-библиографических-ссылок&#34;&gt;Форматы библиографических ссылок&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#гост-р-705-2008&#34;&gt;ГОСТ Р 7.0.5-2008&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Работа с библиографией — неотъемлемая часть учебного процесса и научной деятельности. Правильное оформление ссылок не только демонстрирует академическую добросовестность, но и помогает читателю быстро найти использованные источники. В этой статье я рассмотрю основные инструменты для управления библиографией, форматы citations и практические приемы, позволяющие ускорить подготовку отчетов и статей.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-вообще-нужна-работа-с-библиографией&#34;&gt;Зачем вообще нужна работа с библиографией?&lt;/h2&gt;
+&lt;p&gt;Многие студенты воспринимают оформление ссылок как формальность, однако грамотное цитирование выполняет сразу несколько важных функций:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Подтверждение&lt;/strong&gt; знакомства с литературой по теме&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Защита&lt;/strong&gt; от обвинений в плагиате&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обеспечение&lt;/strong&gt; воспроизводимости исследования&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Упрощение&lt;/strong&gt; навигации для читателя&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Более того, такие библиометрические базы, как РИНЦ (eLibrary) и Scopus, отслеживают цитирования — это напрямую влияет на наукометрические показатели автора.&lt;/p&gt;
+&lt;h2 id=&#34;основные-инструменты-для-управления-библиографией&#34;&gt;Основные инструменты для управления библиографией&lt;/h2&gt;
+&lt;h3 id=&#34;zotero&#34;&gt;Zotero&lt;/h3&gt;
+&lt;p&gt;Zotero — бесплатный менеджер библиографии с открытым исходным кодом. Поддерживает автоматический сбор метаданных с веб-страниц, интеграцию с браузерами и облачную синхронизацию.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Плюсы&lt;/th&gt;
+          &lt;th&gt;Минусы&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Бесплатный (до 300 МБ в облаке)&lt;/td&gt;
+          &lt;td&gt;Ограничение бесплатного хранилища&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Плагины для браузеров&lt;/td&gt;
+          &lt;td&gt;Менее социально-ориентирован&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Поддержка LaTeX (Better BibTeX)&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;mendeley&#34;&gt;Mendeley&lt;/h3&gt;
+&lt;p&gt;Mendeley — продукт Elsevier, сочетает функции менеджера библиографии и научной социальной сети. Современные версии включают AI-функции для поиска закономерностей между ссылками.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Плюсы&lt;/th&gt;
+          &lt;th&gt;Минусы&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Бесплатный (до 2 ГБ)&lt;/td&gt;
+          &lt;td&gt;Принадлежит Elsevier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Встроенный просмотрщик PDF&lt;/td&gt;
+          &lt;td&gt;Закрытый исходный код&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI-инструменты для анализа&lt;/td&gt;
+          &lt;td&gt;Сложный экспорт в BibTeX&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;другие-варианты&#34;&gt;Другие варианты&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EndNote&lt;/strong&gt; — мощный коммерческий инструмент, популярный в западных университетах&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Citavi&lt;/strong&gt; — немецкий менеджер знаний с функциями планирования задач&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BibTeX&lt;/strong&gt; — формат и инструмент для пользователей LaTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;форматы-библиографических-ссылок&#34;&gt;Форматы библиографических ссылок&lt;/h2&gt;
+&lt;p&gt;Существует несколько общепринятых стилей оформления:&lt;/p&gt;
+&lt;h3 id=&#34;гост-р-705-2008&#34;&gt;ГОСТ Р 7.0.5-2008&lt;/h3&gt;
+&lt;p&gt;Российский стандарт, обязательный для большинства дипломов и диссертаций в РФ.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Язык разметки Markdown</title>

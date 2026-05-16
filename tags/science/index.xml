@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science | </title>
-    <link>http://localhost:1313/tags/science/</link>
-      <atom:link href="http://localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/science/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
     <description>Science</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Science</title>
-      <link>http://localhost:1313/tags/science/</link>
+      <link>https://ponomarevava0.github.io/tags/science/</link>
     </image>
     
     <item>
       <title>Итоги недели: научные профили и работа с библиографией</title>
-      <link>http://localhost:1313/blog/summary4/</link>
+      <link>https://ponomarevava0.github.io/blog/summary4/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary4/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary4/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -86,9 +86,9 @@
     
     <item>
       <title>Итоги недели: редакторы и научные профили</title>
-      <link>http://localhost:1313/blog/summary3/</link>
+      <link>https://ponomarevava0.github.io/blog/summary3/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary3/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 

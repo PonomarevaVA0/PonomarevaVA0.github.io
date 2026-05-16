@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study | </title>
-    <link>http://localhost:1313/tags/study/</link>
-      <atom:link href="http://localhost:1313/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/study/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <description>Study</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Study</title>
-      <link>http://localhost:1313/tags/study/</link>
+      <link>https://ponomarevava0.github.io/tags/study/</link>
     </image>
     
     <item>
       <title>Выполнение лабораторных работ по ОС</title>
-      <link>http://localhost:1313/projects/pandas/</link>
+      <link>https://ponomarevava0.github.io/projects/gitlabs/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pandas/</guid>
+      <guid>https://ponomarevava0.github.io/projects/gitlabs/</guid>
       <description>&lt;h2 id=&#34;описание-проекта&#34;&gt;Описание проекта&lt;/h2&gt;
 &lt;p&gt;Репозиторий на GitHub для выполнения и хранения лабораторных работ по курсу «Операционные системы». Все работы задокументированы и снабжены отчётами.&lt;/p&gt;
 &lt;h2 id=&#34;цели-проекта&#34;&gt;Цели проекта&lt;/h2&gt;
@@ -410,9 +410,9 @@
     
     <item>
       <title>Итоги недели: научные профили и работа с библиографией</title>
-      <link>http://localhost:1313/blog/summary4/</link>
+      <link>https://ponomarevava0.github.io/blog/summary4/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary4/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary4/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -482,9 +482,9 @@
     
     <item>
       <title>Языки научного программирования. Обзор, сравнение и выбор инструмента</title>
-      <link>http://localhost:1313/blog/lang_1/</link>
+      <link>https://ponomarevava0.github.io/blog/lang_1/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/lang_1/</guid>
+      <guid>https://ponomarevava0.github.io/blog/lang_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 
@@ -793,9 +793,9 @@
     
     <item>
       <title>Итоги недели: основы командной строки и менеджеры паролей</title>
-      <link>http://localhost:1313/blog/summary2/</link>
+      <link>https://ponomarevava0.github.io/blog/summary2/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary2/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary2/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -847,9 +847,9 @@
     
     <item>
       <title>Итоги недели: редакторы и научные профили</title>
-      <link>http://localhost:1313/blog/summary3/</link>
+      <link>https://ponomarevava0.github.io/blog/summary3/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary3/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary3/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 
@@ -919,9 +919,9 @@
     
     <item>
       <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
-      <link>http://localhost:1313/blog/bib_1/</link>
+      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/bib_1/</guid>
+      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 
@@ -1024,9 +1024,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;markdown--язык-разметки-для-всех&#34;&gt;Markdown — язык разметки для всех&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h3&gt;
 &lt;p&gt;Markdown — это лёгкий язык разметки, созданный Джоном Грубером в 2004 году. Текст остаётся читаемым даже без преобразования в HTML. Я студентка РУДН, учусь на прикладной информатике, и Markdown — мой незаменимый инструмент.&lt;/p&gt;
@@ -1139,9 +1139,9 @@
     
     <item>
       <title>Итоги недели: настройка окружения и работа с Git</title>
-      <link>http://localhost:1313/blog/summary1/</link>
+      <link>https://ponomarevava0.github.io/blog/summary1/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary1/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary1/</guid>
       <description>&lt;h2 id=&#34;выполненные-задачи&#34;&gt;Выполненные задачи&lt;/h2&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex | </title>
-    <link>http://localhost:1313/tags/latex/</link>
-      <atom:link href="http://localhost:1313/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/latex/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     <description>Latex</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Latex</title>
-      <link>http://localhost:1313/tags/latex/</link>
+      <link>https://ponomarevava0.github.io/tags/latex/</link>
     </image>
     
     <item>
       <title>Языки научного программирования. Обзор, сравнение и выбор инструмента</title>
-      <link>http://localhost:1313/blog/lang_1/</link>
+      <link>https://ponomarevava0.github.io/blog/lang_1/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/lang_1/</guid>
+      <guid>https://ponomarevava0.github.io/blog/lang_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 
@@ -325,9 +325,9 @@
     
     <item>
       <title>Работа с библиографией: инструменты, подходы и лайфхаки для студентов</title>
-      <link>http://localhost:1313/blog/bib_1/</link>
+      <link>https://ponomarevava0.github.io/blog/bib_1/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/bib_1/</guid>
+      <guid>https://ponomarevava0.github.io/blog/bib_1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 

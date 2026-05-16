@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Os | </title>
-    <link>http://localhost:1313/tags/os/</link>
-      <atom:link href="http://localhost:1313/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/os/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
     <description>Os</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Os</title>
-      <link>http://localhost:1313/tags/os/</link>
+      <link>https://ponomarevava0.github.io/tags/os/</link>
     </image>
     
     <item>
       <title>Выполнение лабораторных работ по ОС</title>
-      <link>http://localhost:1313/projects/pandas/</link>
+      <link>https://ponomarevava0.github.io/projects/gitlabs/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pandas/</guid>
+      <guid>https://ponomarevava0.github.io/projects/gitlabs/</guid>
       <description>&lt;h2 id=&#34;описание-проекта&#34;&gt;Описание проекта&lt;/h2&gt;
 &lt;p&gt;Репозиторий на GitHub для выполнения и хранения лабораторных работ по курсу «Операционные системы». Все работы задокументированы и снабжены отчётами.&lt;/p&gt;
 &lt;h2 id=&#34;цели-проекта&#34;&gt;Цели проекта&lt;/h2&gt;

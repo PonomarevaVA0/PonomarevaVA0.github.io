@@ -2,21 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | </title>
-    <link>http://localhost:1313/tags/markdown/</link>
-      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/markdown/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://ponomarevava0.github.io/tags/markdown/</link>
     </image>
     
     <item>
+      <title>Персональный сайт на Hugo Blox</title>
+      <link>https://ponomarevava0.github.io/projects/hugosite/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ponomarevava0.github.io/projects/hugosite/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;p&gt;Создание сайта-портфолио на Hugo Blox с блогом, научными профилями и автодеплоем.&lt;/p&gt;
+&lt;h2 id=&#34;цели&#34;&gt;Цели&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоить Hugo и Hugo Blox&lt;/li&gt;
+&lt;li&gt;Научиться работать с Git&lt;/li&gt;
+&lt;li&gt;Настроить CI/CD&lt;/li&gt;
+&lt;li&gt;Интегрировать научные профили&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этап-1-установка&#34;&gt;Этап 1. Установка&lt;/h2&gt;
+&lt;p&gt;sudo dnf install hugo git golang&lt;/p&gt;
+&lt;h2 id=&#34;этап-2-создание-сайта&#34;&gt;Этап 2. Создание сайта&lt;/h2&gt;
+&lt;p&gt;hugo new site blog_1
+cd blog_1
+hugo mod init github.com/PonomarevaVA0/blog_1
+hugo mod get github.com/HugoBlox/kit&lt;/p&gt;
+&lt;h2 id=&#34;этап-3-структура&#34;&gt;Этап 3. Структура&lt;/h2&gt;
+&lt;p&gt;hugo new &amp;ndash;kind authors me
+hugo new blog/hello-world/index.md&lt;/p&gt;
+&lt;h2 id=&#34;этап-4-главная-страница&#34;&gt;Этап 4. Главная страница&lt;/h2&gt;
+&lt;p&gt;Файл content/_index.md:
+sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;block: resume-biography-3
+content:
+username: me&lt;/li&gt;
+&lt;li&gt;block: collection
+content:
+title: Блог
+filters:
+folders:
+- blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этап-5-профиль-автора&#34;&gt;Этап 5. Профиль автора&lt;/h2&gt;
+&lt;p&gt;Файл content/authors/me/_index.md:
+title: Варвара Пономарева
+role: Студент РУДН
+social:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icon: orcid
+icon_pack: ai
+link: 
+&lt;/li&gt;
+&lt;li&gt;icon: github
+icon_pack: fab
+link: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этап-6-посты-блога&#34;&gt;Этап 6. Посты блога&lt;/h2&gt;
+&lt;p&gt;hugo new blog/weekly-1/index.md
+hugo new blog/weekly-2/index.md
+hugo new blog/ci-cd/index.md
+hugo new blog/bibliography/index.md
+hugo new blog/scientific-languages/index.md&lt;/p&gt;
+&lt;h2 id=&#34;этап-7-проекты&#34;&gt;Этап 7. Проекты&lt;/h2&gt;
+&lt;p&gt;hugo new project/website/index.md
+hugo new project/github-labs/index.md&lt;/p&gt;
+&lt;h2 id=&#34;этап-8-научные-профили&#34;&gt;Этап 8. Научные профили&lt;/h2&gt;
+&lt;p&gt;ORCID: 0009-0000-3695-3717
+eLibrary: elibrary.ru
+Google Scholar: scholar.google.com
+Mendeley: mendeley.com
+ResearchGate: researchgate.net
+Academia.edu: academia.edu
+arXiv: arxiv.org
+GitHub: github.com/PonomarevaVA0&lt;/p&gt;
+&lt;h2 id=&#34;этап-9-cicd&#34;&gt;Этап 9. CI/CD&lt;/h2&gt;
+&lt;p&gt;Файл .github/workflows/deploy.yml:
+name: Deploy
+on:
+push:
+branches: [&amp;ldquo;main&amp;rdquo;]
+jobs:
+build:
+runs-on: ubuntu-latest
+steps:
+- uses: actions/checkout@v4
+- uses: peaceiris/actions-hugo@v2
+- run: hugo &amp;ndash;minify
+- uses: actions/upload-pages-artifact@v3
+deploy:
+needs: build
+runs-on: ubuntu-latest
+steps:
+- uses: actions/deploy-pages@v4&lt;/p&gt;
+&lt;h2 id=&#34;этап-10-публикация&#34;&gt;Этап 10. Публикация&lt;/h2&gt;
+&lt;p&gt;git add .
+git commit -m &amp;ldquo;Сайт готов&amp;rdquo;
+git push&lt;/p&gt;
+&lt;h2 id=&#34;результат&#34;&gt;Результат&lt;/h2&gt;
+&lt;p&gt;Сайт с блогом из 6 постов, 2 проектами, 8 научными профилями и автодеплоем.&lt;/p&gt;
+&lt;h2 id=&#34;ссылки&#34;&gt;Ссылки&lt;/h2&gt;
+&lt;p&gt;Репозиторий: github.com/PonomarevaVA0/blog_1
+Сайт: ponomarevava0.github.io/blog_1&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>https://ponomarevava0.github.io/blog/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;markdown--язык-разметки-для-всех&#34;&gt;Markdown — язык разметки для всех&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h3&gt;
 &lt;p&gt;Markdown — это лёгкий язык разметки, созданный Джоном Грубером в 2004 году. Текст остаётся читаемым даже без преобразования в HTML. Я студентка РУДН, учусь на прикладной информатике, и Markdown — мой незаменимый инструмент.&lt;/p&gt;
@@ -128,26 +229,10 @@
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Create Beautiful Presentations with Markdown</title>
-      <link>http://localhost:1313/events/example/</link>
+      <link>https://ponomarevava0.github.io/events/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/example/</guid>
+      <guid>https://ponomarevava0.github.io/events/example/</guid>
       <description>&lt;h2 id=&#34;-why-markdown-slides&#34;&gt;🎯 Why Markdown Slides?&lt;/h2&gt;
 
 
@@ -632,7 +717,7 @@ Navigate down for sub-topics!&lt;/p&gt;
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-7519dfcc27cf03dd985a63a0b9a6155b&#34;
-    href=&#34;http://localhost:1313/slides/example/&#34;
+    href=&#34;https://ponomarevava0.github.io/slides/example/&#34;
     target=&#34;_blank&#34;
     rel=&#34;noopener&#34;
     

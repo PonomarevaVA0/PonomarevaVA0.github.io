@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github-Actions | </title>
-    <link>http://localhost:1313/tags/github-actions/</link>
-      <atom:link href="http://localhost:1313/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ponomarevava0.github.io/tags/github-actions/</link>
+      <atom:link href="https://ponomarevava0.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
     <description>Github-Actions</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ponomarevava0.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Github-Actions</title>
-      <link>http://localhost:1313/tags/github-actions/</link>
+      <link>https://ponomarevava0.github.io/tags/github-actions/</link>
     </image>
     
     <item>
       <title>Непрерывная интеграция и непрерывное развертывание (CI/CD): основы и практическое применение</title>
-      <link>http://localhost:1313/blog/ci-cd/</link>
+      <link>https://ponomarevava0.github.io/blog/ci-cd/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ci-cd/</guid>
+      <guid>https://ponomarevava0.github.io/blog/ci-cd/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
 
